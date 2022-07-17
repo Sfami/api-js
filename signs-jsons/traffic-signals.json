@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Traffic Lights",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 2,
+        "name": "Control hand signals for use by traffic officer.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    }
+]

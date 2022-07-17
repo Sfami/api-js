@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Regulatory Markings",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop_line.png"
+    },
+    {
+        "id": 2,
+        "name": "Warning Markings",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/yield_line.png"
+    },
+    {
+        "id": 3,
+        "name": "Guidance Markings",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/road_markings.png"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Road Layout Signs",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 2,
+        "name": "Direction of Movement Signs",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 3,
+        "name": "Symbolic Signs",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    }
+]
