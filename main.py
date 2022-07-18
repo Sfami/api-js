@@ -7,23 +7,25 @@ import yfinance as yf
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-data = pd.read_csv("data.csv")
-print(data.columns)
-columns = ["Time Serie", 'NEW ZEALAND - NEW ZELAND DOLLAR/US$']
-data = data[columns]
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import matplotlib.ticker as mticker
+
+data = pd.read_csv("data/data.csv")	
 
 data.dropna(inplace=True)
-    
+
+columns = data.columns
 data["Date"] = pd.to_datetime(data[columns[0]], infer_datetime_format=True) 
-data["ZAR"] = data[columns[1]]
+# data["ZAR"] = data[columns[1]]
 
-data["ZAR"] = data['ZAR'].map(lambda x: float(0) if x =='ND' else float(x))
+# data["ZAR"] = data['ZAR'].map(lambda x: float(0) if x =='ND' else float(x))
 
-print(data['ZAR'].head())
+# print(data['ZAR'].head())
 
-print(data['ZAR'].dtype)
-data = data.drop(columns, axis=1)
-data.set_index("ZAR")
+# print(data['ZAR'].dtype)
+# data = data.drop(columns, axis=1)
+# data.set_index("ZAR")
 
 
 print(len(data))
@@ -60,6 +62,7 @@ mav = StringVar()
 
 
 def graph(scale, mva_toggle):
+
 	st = email.get()
 	en = password.get()
 	av = moving.get()
@@ -92,19 +95,43 @@ def graph(scale, mva_toggle):
 	print("scale", scale)
 	if scale == "log":
 		plt.yscale('log')
+	plt.ylabel('RSI')
+    # ax2.plot(cs.calc_rsi(zar))
+	ax2.plot(rsi, color='orange', linewidth=0.5)
+	ax2.axhline(30, linestyle='--', linewidth=1.0, color='green')
+	ax2.axhline(70, linestyle='--', linewidth=1.0, color='red')
+	ax2.axes.yaxis.get_ticklabels([])
+	ax2.grid(True)
+
+
+	ax1.xaxis.set_major_locator(mticker.MaxNLocator(10))
+	ax1.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
+
+	for label in ax1.xaxis.get_ticklabels():
+		label.set_rotation(90)
+	for label in ax2.xaxis.get_ticklabels():
+		label.set_rotation(45)
+
+
+   
+	plt.xlabel('Date')
+	plt.suptitle('Daily USD/ZAR Exchange Rate over Time (1992 to 2022)')
+	plt.setp(ax1.get_xticklabels(), visible=False)
+	plt.subplots_adjust(left=.09, bottom=.18, top=.94, right=.94, wspace=.20, hspace=0)
+
+	plt.show()
+
+
 
 	
 
-	ax1.set_title('Bitcoin Close Price')
+	# ax2.plot(rsi, color='orange', linewidth=1)
 
-	ax2.set_title('Relative Strength Index')
-	ax2.plot(rsi, color='orange', linewidth=1)
+	# ax2.axhline(30, linestyle='--', linewidth=1.5, color='green')
 
-	ax2.axhline(30, linestyle='--', linewidth=1.5, color='green')
+	# ax2.axhline(70, linestyle='--', linewidth=1.5, color='red')
 
-	ax2.axhline(70, linestyle='--', linewidth=1.5, color='red')
-
-	plt.show()
+	# plt.show()
 
 
 signin = Frame(root)
