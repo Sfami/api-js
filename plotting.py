@@ -28,6 +28,11 @@ def plot(scale, mva_toggle):
 	st = email.get()
 	en = password.get()
 	av = moving.get()
+
+	
+
+
+
 	print(st)
 	print(en)
 	st_l = st.split("/")
@@ -35,9 +40,20 @@ def plot(scale, mva_toggle):
 	en_l = en.split("/")
 	print(st_l)
 	print(en_l)
+
+	first = datetime(int(st_l[0]),int(st_l[1]),int(st_l[2]))
+	second= datetime(int(en_l[0]),int(en_l[1]),int(en_l[2]))
+
+	first= first.strftime("%Y/%m/%d")
+
+	second= second.strftime("%Y/%m/%d")
 	data = pd.read_csv("data/data.csv")
 	print(data.head())
 	print("\n", data.columns)
+    data = data[data.Date > first]
+    data = data[data.Date < second]
+
+
 	date = data['Date']
 	zar = data['ZAR']
 
