@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Crossroad (W101)",
+        "where": "On any road.",
+        "purpose": "To warn that a hazard in the form of a crossroad is ahead",
+        "action": "If your vehicle (or load) is higher than the indicated height in metres, another road not indicated by this sign, must be used.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+        {
+        "id": 1,
+        "name": "Height limit (R204, TR204)",
+        "where": "On any public road.",
+        "purpose": "To warn you against a height restriction ahead.",
+        "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Time limit subgroup\nTwo-time periods (R) 502\nTwo-time periods/days (R) 50",
+        "where": "Below a regulatory sign on any public road.",
+        "purpose": "To indicate that the regulatory sign applies only for the period(s) or during conditions indicated on this sign.",
+        "action": "Obey the times on this sign.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 2,
+        "name": "Maximum stay during two periods/days (R505, R506)",
+        "where": "Below a regulatory sign on any public road.",
+        "purpose": "To limit the times and periods of stopping.",
+        "action": "Do not stop or park for longer than the times indicated.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 3,
+        "name": "Daytime (R)511",
+        "where": "On any public road.",
+        "purpose": "To inform you that the regulatory sign applies during daytime.",
+        "action": "Obey the regulatory sign during daytime.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 4,
+        "name": "Night time (R)512",
+        "where": "On any public road.",
+        "purpose": "To inform you that the regulatory sign only applies during night time.",
+        "action": "Obey the regulatory sign during night time.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 5,
+        "name": "Pay and display (R523)",
+        "where": "Below a regulatory sign.",
+        "purpose": "To indicate that parking fees must be paid in the parking area.",
+        "action": "Pay the parking fee and display the receipt on or within your vehicle.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 6,
+        "name": "Maximum number of vehicles (R540)",
+        "where": "Below the appropriate regulatory sign.",
+        "purpose": "To indicate to the driver that the reservation indicated on the regulatory sign is further restricted by a maximum number of vehicles as indicated on this sign.",
+        "action": "Do not enter an area if that would mean there would be more than the number of vehicles indicated.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+]
+

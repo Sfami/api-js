@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Advance exit direction (GA2)",
+        "where": "On the left-hand side of a freeway, about 1 km before an off-ramp exit.",
+        "purpose": "To indicate early on that there is an exit from the freeway to certain destinations ahead..",
+        "action": "If you want to leave the freeway, move to the left hand lane in good time.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 1,
+        "name": "Exit direction GA3",
+        "where": "On the left-hand side of a freeway and as close as possible to the off-ramp.",
+        "purpose": "To indicate exactly where the exit is.",
+        "action": "Only leave the freeway if you are in the left-hand lane.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 1,
+        "name": "Exit sequence (GA8)",
+        "where": "On the left-hand side of a freeway about 2km before the first exit indicated.",
+        "purpose": "To indicate in good time exits that is close together, all leading to the same town.",
+        "action": "Make sure which exit you need to take and move in good time to the correct lane to leave the freeway.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 1,
+        "name": "Overhead freeway direction (GC3U)",
+        "where": "On any freeway.",
+        "purpose": "To indicate that the freeway splits ahead and that the lanes lead to different destinations as indicated.",
+        "action": "Signal in time and make sure you are in the right-hand lane if you want to turn right to join the freeway.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 1,
+        "name": "Far-side advance on-ramp direction (GB3)",
+        "where": "On the left-hand side of an ordinary road after a “Near-side on-ramp direction” sign.",
+        "purpose": "To indicate that the far-side on-ramp to a freeway access interchange, is some distance ahead and to indicate the route number and the destination that will be reached by turning onto that on-ramp.",
+        "action": "Slow down and move to the right-hand side of your traffic lane if you want to join the freeway.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+]

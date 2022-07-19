@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Traffic circle (W201, TW201)",
+        "where": "On any road.",
+        "purpose": "To warn that there is a traffic circle ahead where you may need to yield to other traffic.",
+        "action": "Slow down so that you can stop or drive around the circle at a safe speed. Look out for road traffic signs and markings which will tell you whether you have the right of way or whether you have to yield. If there is no indication you have to give way to traffic approaching from the right. Vehicles within a traffic circle have right of way.\n If you have right of way still look out for traffic in the circle which may not yield to you.\n If sign R2.2 is displayed at the traffic circle, you must yield to any driver who crosses his yield line first before you cross yours.\n",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 2,
+        "name": "Gentle curve (W202, TW202, W203, TW203)",
+        "where": "On any public road.",
+        "purpose": "To warn that there is a gentle curve ahead to the left or right.",
+        "action": "Ensure that you drive at such a speed that you can take the curve safely or stop within the distance that you can see.\n",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 3,
+        "name": "Sharp curve (W204, TW204, W205, TW205)",
+        "where": "To warn that there is a sharp curve ahead to the left or right.",
+        "purpose": "To warn that there is a gentle curve ahead to the left or right.",
+        "action": "Slow down so that you can take the curve safely or stop within the distance that you can see.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 4,
+        "name": "Hairpin bend (W206, TW206, W207, TW207)",
+        "where": "On any public road especially in mountainous areas.",
+        "purpose": "To warn that there is a very sharp, U-shaped curve ahead to the left or right.",
+        "action": "Slow down so that you can take the curve safely or stop within the distance you can see.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 5,
+        "name": "Winding road (W208, TW208, W209, TW209)",
+        "where": "On any public road especially in mountainous areas.",
+        "purpose": "To warn of a series of curves ahead. In the case of W209 the first curve is to the left and in the case of W208 the first bend is to the right.",
+        "action": "Slow down enough to take the curves safely or stop within the distance you can see. Remember that there could be any number of curves after the first one without further warning.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 6,
+        "name": "Combined curves (W210, TW210, W211, TW211)",
+        "where": "On any public road especially in mountainous areas.",
+        "purpose": "To warn that there are two sharp curves ahead in opposite directions. W210 indicates the first curve is to the right and W211 that the first curve is to the left.",
+        "action": "Slow down so that you can take the curve safely or stop within the distance you can see.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 7,
+        "name": "Two-way traffic (W212, TW212)",
+        "where": "On any one-way road.",
+        "purpose": "To warn that the one-way roadway you are travelling on will soon become a two-way roadway.",
+        "action": "Be aware that you are entering a roadway with two-way traffic and have to be more careful when overtaking to allow for oncoming vehicles.\n",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 8,
+        "name": "Concealed driveway (W216, TW216, W217, TW217, W218, TW218)",
+        "where": "On any one-way road.",
+        "purpose": "To warn that one or more concealed driveways enter the road you are driving on from the left or right in such a way that you cannot easily see the road or traffic travelling on that road.",
+        "action": "Slow down so that you can stop or yield if there is cross traffic that do not yield at the intersection. Remember that a driver of such a vehicle that joins your road from the concealed driveway sometimes finds it also difficult to see you.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 9,
+        "name": "Lane ends (W214, TW214, W215, TW215)",
+        "where": "On any road with more than one traffic lane in the direction you are travelling.",
+        "purpose": "To warn that the double-lane road you are driving on narrows by a full lane from the left (W215 or TW215) or from the right-hand side (W214 or TW 214).",
+        "action": "Depending on which sign is displayed, change in good time to the lane that carries on.\n",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    }
+]

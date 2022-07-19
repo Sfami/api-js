@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Bus reservation (R301, TR301) ",
+        "where": "At the entrance to any carriageway, lane or parking area.",
+        "purpose": "Indicate that the road or part of the carriageway is reserved for buses only.",
+        "action": "Do not enter this area or park here if you are not driving a bus.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 2,
+        "name": "Bus lane reservation (R302, TR302) ",
+        "where": "On any road, particularly in urban areas.",
+        "purpose": "Signs R302 and TR302 indicate that no other class of vehicle may use that part of the road.",
+        "action": "Do not follow this bus route if you are not driving a bus.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 3,
+        "name": "Minimum Speed Limit",
+        "where": "Railway Crossings, Intersections, and Scholar Patrols.",
+        "purpose": "Bring traffic to a stop.",
+        "action": "Bring vehicles to a stop behind the line. When there is no stop line, the front of the vehicle must be in line with the stop sign. You may not drive off before all the other vehicles which stopped before you have moved off in a three-way or four-way stop. Continue only when it is safe.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 4,
+        "name": "Parking (R305-P, TR305-P)",
+        "where": "On any road or other area where parking bays are demarcated.",
+        "purpose": "Sign (R305-P) indicates a parking area for vehicles with a GVM of less than 3 500 kg where no time limit applies but a fee must be paid. Sign (R306-P) indicates a parking area that may be used free of charge or at a fee and the maximum time allowed for a vehicle to be parked, is displayed.",
+        "action": "Park in accordance with the road traffic sign and road traffic markings. If necessary pay the tariff and do not park for longer than the time indicated.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 5,
+        "name": "Limited parking (R306-P, TR306-P) reservation",
+        "where": "On any road or other area where parking bays are demarcated.",
+        "purpose": "Sign (R305-P) indicates a parking area for vehicles with a GVM of less than 3 500 kg where no time limit applies but a fee must be paid. Sign (R306-P) indicates a parking area that may be used free of charge or at a fee and the maximum time allowed for a vehicle to be parked, is displayed.",
+        "action": "Park in accordance with the road traffic sign and road traffic markings. If necessary pay the tariff and do not park for longer than the time indicated.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 6,
+        "name": "Motorcycle reservation (R307, TR307)",
+        "where": "On any road or at an entrance to a parking area.",
+        "purpose": "To reserve a portion of a road or a parking area for use by motorcycles only.",
+        "action": "Do not use this road (R307, TR307) or parking area (R307-P, TR307-P) if you are not riding a motorcycle.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+
+]

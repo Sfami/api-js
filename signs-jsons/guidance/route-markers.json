@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Overhead direction (GD12, GD13, GD15/16/17)",
+        "where": "On any road with more than one traffic lane, especially in rural areas.",
+        "purpose": "To inform in advance which lane leads to a specific destination.",
+        "action": "Move in good time to the correct lane that leads to your destination or route.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 1,
+        "name": "Advance trailblazer",
+        "where": "On the far left-hand corner of an intersection.",
+        "purpose": "To point out the direction you must follow to reach the more important route.",
+        "action": "Follow the traffic signs if you want to join the more important route and look out for the next trailblazer.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 1,
+        "name": "Fingerboard",
+        "where": "On the far left-hand corner of an intersection.",
+        "purpose": "To guide you to small locations or to destinations on less travelled routes.",
+        "action": "Slow down and look out for traffic that might not yield at the intersection.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    },
+    {
+        "id": 1,
+        "name": "Stack-type direction (GD1.112, TGD1.112)",
+        "where": "On the far left-hand corner of an intersection.",
+        "purpose": "To indicate the-\n numbers of the routes leading from this intersection and\n destinations that can be reached from this intersection.",
+        "action": "Slow down and make sure you take the correct route. Also look out for other traffic at the intersection that might not yield.\n",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+    }
+]

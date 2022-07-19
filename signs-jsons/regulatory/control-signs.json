@@ -57,7 +57,7 @@
     },
     {
         "id": 7,
-        "name":"3-Way Stop",
+        "name":"4-Way Stop",
         "where":"At intersections.",
         "purpose":"To bring traffic from all four directions to a stop.",
         "action":"Bring your vehicle to a standstill behind the stop line. If there is no stop line, the front of your vehicle must be brought to a stop in line with the stop sign. Proceed only when it is safe. If more than one vehicle stops at such an intersection, the vehicle, which stopped first, should move off first.",
@@ -72,5 +72,43 @@
         "action":"Proceed in the direction of the arrow only if you want to use that specific carriageway. ",
         "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
         "image": "https://sfamisoftwares.com/api-js/images/yield.png"
-    }
+    },
+    {
+        "id": 9,
+        "name": "Stop/Go",
+        "where": "Usually at road works for temporary traffic control.",
+        "purpose": "These are two different signs, which are mounted back to back. It indicates whether you may proceed or must stop.",
+        "action": "Stop if the STOP sign is displayed and move off or proceed with caution if safe when the GO sign is displayed.",
+        "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
+        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+    },
+    {
+        "id": 10,
+        "name": "Yield to Pedestrians",
+        "where": "At intersections and pedestrian crossings",
+        "purpose": "To compel you to give priority to pedestrians crossing the road or wanting to cross",
+        "action":"Look out for pedestrians crossing the road or near the road and be ready to stop.",
+        "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
+        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+    },
+    {
+        "id": 11,
+        "name": "Yield at Traffic Circle",
+        "where": "At traffic circles, particularly mini circles.",
+        "purpose": "To warn you that there is a traffic circle ahead where they must expect to yield.",
+        "action":"Look out for other vehicles and yield to vehicles already in the circle or that will cross the yield line at their entrance to the circle before you will cross yours. Stop if necessary.\n The driver who reaches his/her yield line first may proceed first.\n At a mini circle you must, as at a normal intersection, signal in time in which direction you want to turn.",
+        "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
+        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+    },
+    {
+        "id": 12,
+        "name": "Yield To Oncoming Traffic",
+        "where": "At the entrance to any road intended for dual way traffic.",
+        "purpose": "To indicate that there is a single carriageway ahead for use by by vehicle from both directions.",
+        "action":"Look out for other vehicles and yield to vehicles already in the carriageway.",
+        "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
+        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+    }    
 ]
+
+    
