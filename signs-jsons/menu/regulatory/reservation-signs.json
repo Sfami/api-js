@@ -52,6 +52,6 @@
         "action": "Do not use this road (R307, TR307) or parking area (R307-P, TR307-P) if you are not riding a motorcycle.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
-    },
+    }
 
 ]

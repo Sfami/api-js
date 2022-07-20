@@ -25,6 +25,6 @@
         "action": "If the axle mass of any of your vehicle’s axles exceeds the indicated mass in tons, use another road or part of the road not indicated by this sign.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
-    },
+    }
 
 ]

@@ -70,5 +70,5 @@
         "action": "Do not proceed past the sign or enter the road without special permission.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
-    },
+    }
 ]

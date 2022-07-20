@@ -155,7 +155,7 @@
         "name": "Roundabout (R137, TR137)",
         "where": "On any road where there are multiple roads intersecting.",
         "purpose": "To indicate that you must move in a clockwise direction at the junction.",
-        "action": "Yield right of way to vehicle approaching from the right within the roundabout, where such vehicles are close enough to cause a danger or potential danger. Proceed",
+        "action": "Yield right of way to vehicle approaching from the right within the roundabout, where such vehicles are close enough to cause a danger or potential danger. Proceed"
     },
     {
         "id":19,   

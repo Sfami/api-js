@@ -52,6 +52,6 @@
         "action": "Do not enter an area if that would mean there would be more than the number of vehicles indicated.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
-    },
+    }
 ]
 
