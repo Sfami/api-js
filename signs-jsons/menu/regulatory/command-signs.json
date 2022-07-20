@@ -32,7 +32,9 @@
         "name": "Vehicle Exceeding Mass Only",
         "where": "On any public road.",
         "purpose": "To compel drivers of certain heavy vehicles to use the road or part of the road indicated by this road traffic sign.",
-        "action": "When driving a vehicle with a Gross Vehicle Mass (GVM) or Gross Combination Mass (GCM) in excess of the mass indicated in tons, use only the part of the road indicated by this sign.\n If the GVM or GCM of your vehicle is less than the mass indicated in tons, use a part of the road not indicated by this sign."
+        "action": "When driving a vehicle with a Gross Vehicle Mass (GVM) or Gross Combination Mass (GCM) in excess of the mass indicated in tons, use only the part of the road indicated by this sign.\n If the GVM or GCM of your vehicle is less than the mass indicated in tons, use a part of the road not indicated by this sign.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id":5,   
@@ -48,7 +50,9 @@
         "name": "Keep Right",
         "where": "Railway Crossings, Intersections, and Scholar Patrols",
         "purpose": "Bring traffic to a stop.",
-        "action": "Bring vehicles to a stop behind the line. When there is no stop line, the front of the vehicle must be in line with the stop sign. You may not drive off before all the other vehicles which stopped before you have moved off in a three-way or four-way stop. Continue only when it is safe."
+        "action": "Bring vehicles to a stop behind the line. When there is no stop line, the front of the vehicle must be in line with the stop sign. You may not drive off before all the other vehicles which stopped before you have moved off in a three-way or four-way stop. Continue only when it is safe.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id":7,   
@@ -79,7 +83,6 @@
     },
     {
         "id":10,   
-
         "name": "Minibuses only (R119, TR119)",
         "where": "At the beginning of any road or part of a road.",
         "purpose": "Indicates that the road or a portion of the road is set aside for use by minibuses",
@@ -98,7 +101,6 @@
     },
     {
         "id":12,   
-
         "name": "Taxis only (R118, TR118)",
         "where": "At the beginning of any road or part of a road.",
         "purpose": "To indicate that the road or portion of the road is set aside for use by taxis.",
@@ -111,7 +113,9 @@
         "name": "Motorcycles only (R116, TR116)",
         "where": "At the beginning of any road or part of a road.",
         "purpose": "Indicate that a road or part of a road may be used by motorcyclists only.",
-        "action": "Motorcyclists must follow the route indicated by the road traffic sign.\n No driver of any other vehicle may use the road or part of the road indicated by this sign.\n Motorcyclists may use only that part of the road indicated by this sign."
+        "action": "Motorcyclists must follow the route indicated by the road traffic sign.\n No driver of any other vehicle may use the road or part of the road indicated by this sign.\n Motorcyclists may use only that part of the road indicated by this sign.",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
 
     { 
@@ -155,7 +159,9 @@
         "name": "Roundabout (R137, TR137)",
         "where": "On any road where there are multiple roads intersecting.",
         "purpose": "To indicate that you must move in a clockwise direction at the junction.",
-        "action": "Yield right of way to vehicle approaching from the right within the roundabout, where such vehicles are close enough to cause a danger or potential danger. Proceed"
+        "action": "Yield right of way to vehicle approaching from the right within the roundabout, where such vehicles are close enough to cause a danger or potential danger. Proceed",
+        "description": "Description",
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id":19,   
