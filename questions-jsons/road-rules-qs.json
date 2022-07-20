@@ -1,287 +1,119 @@
 [
     {
-        "id": 1,
-        "name": "",
-        "description":""
+        "correctAnsNo": 1,
+        "image": 0,
+        "option1": "A. In an emergency use hand signals on a freeway.",
+        "option2": "B. While the engine is running leave the vehicle unattended.",
+        "option3": "C. Let passengers ride on the outside of the vehicle.",
+        "option4": "D. Allow passengers to help steer the vehicle.",
+        "question": "A driver may:"
     },
     {
-        "id": 2,
-        "name": "",
-        "description":""
+        "correctAnsNo": 1,
+        "image": 0,
+        "option1": "A. (i) only is correct.",
+        "option2": "B. (ii) only is correct.",
+        "option3": "C. (iii) only is correct.",
+        "option4": "D. None of the above are correct.",
+        "question": "An accident which no one had or has been injured must be reported within ... hours. \n(i) 24\n(ii) 72\n(iii) 48"
     },
     {
-        "id": 3,
-        "name": "",
-        "description":""
+        "correctAnsNo": 1,
+        "image": 0,
+        "option1": "A. (i) and (ii) are correct.",
+        "option2": "B. (ii) only is correct.",
+        "option3": "C. None of the above are correct.",
+        "option4": "D. All of the above are correct.",
+        "question": "If you see that someone wants to overtake you, you must:\n(i) Keep left as far as it is safe.\n(ii) Not drive faster.\n(iii) Give hand signals to allow the person to ass safely."
     },
     {
-        "id": 4,
-        "name": "",
-        "description":""
+        "correctAnsNo": 1,
+        "image": 0,
+        "option1": "A. True",
+        "option2": "B. False",
+        "option3": "C. This is permitted in an emergency.",
+        "option4": "D. None of the above.",
+        "question": "You may NOT drive to the left of the edge line marking to overtake on the left:"
     },
     {
-        "id": 5,
-        "name": "",
-        "description":""
+        "correctAnsNo": 4,
+        "image": 0,
+        "option1": "A. (i) and (ii)",
+        "option2": "B. (i) only is correct.",
+        "option3": "C. (ii) and (iii) are correct.",
+        "option4": "D. All of the above are correct.",
+        "question": "Your vehicle\u0027s headlights must be switched on:\n(i) At any time of the day when you cannot see persons and vehicles 150m in front of you.\n(ii) From sunset to sunrise.\n(iii) When it rains and you cannot see vehicles 100m in front of you."
     },
     {
-        "id": 6,
-        "name": "",
-        "description":""
+        "correctAnsNo": 3,
+        "image": 0,
+        "option1": "A. Always check your blind spot.",
+        "option2": "B. You must have ywo hands on the steering wheel.",
+        "option3": "C. Your vision of the road and the traffic must be unobstructed.",
+        "option4": "D. None of the above.",
+        "question": "When you drive:"
     },
     {
-        "id": 7,
-        "name": "",
-        "description":""
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. (i) only is correct.",
+        "option2": "B. (ii) only is correct.",
+        "option3": "C. (iii) only is correct.",
+        "option4": "D. All of the above are correct.",
+        "question": "You must give way to pedestrians:\n(i) who need to cross the freeway\n(ii) who are approaching your half of a pedestrian crossing.\n(iii) both of these"
     },
     {
-        "id": 8,
-        "name": "",
-        "description":""
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. 0,05 grams per 100ml of blood or more",
+        "option2": "B. 0,005 grams per 100ml of blood or more",
+        "option3": "C. 0,0005 grams per 100ml of blood or more",
+        "option4": "D. 0,5 grams per 100ml of blood or more",
+        "question": "You may not drive a motor vehicle on a public road while the concentration of alcohol in your blood is ..."
     },
     {
-        "id": 9,
-        "name": "",
-        "description":""
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. If it does not have a sunroof.",
+        "option2": "B. In such a manner that willfully disregard the safety of individuals or property.",
+        "option3": "C. If it does not have a car stereo.",
+        "option4": "D. It is registered.",
+        "question": "A driver/rider should not drive/ride a vehicle on a public road ..."
     },
     {
-        "id": 10,
-        "name": "",
-        "description":""
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. (iii) only is correct.",
+        "option2": "B. All of the above.",
+        "option3": "C. (i) and (ii) are correct.",
+        "option4": "",
+        "question": "If your vehicle is involved in an accident you are supposed to\n(i) Immediately stop your vehicle\n(ii) Ascertain the nature and extent of any injuries.\n(iii) Drink a bit to calm your nerves."
     },
     {
-        "id": 11,
-        "name": "",
-        "description":""
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. 1 millimetre",
+        "option2": "B. 0.1 millimetre",
+        "option3": "C. 0.10 millimetre",
+        "option4": "",
+        "question": "Vehicles must be fitted with pneumatic tyres and maintain a tread depth of at least ..."
     },
     {
-        "id": 12,
-        "name": "",
-        "description":""
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. The fuel tank is fitted with an effective yellow cap.",
+        "option2": "B. The fuel tank is not fitted with an effective yellow cap.",
+        "option3": "C. The fuel tank is fitted with an effective red cap.",
+        "option4": "",
+        "question": "A vehicle may not be used on a public road if ..."
     },
     {
-        "id": 13,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 14,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. (i) only is correct.",
+        "option2": "B. (ii) and (iii)  is correct.",
+        "option3": "C. All the ",
+        "option4": "",
+        "question": "A vehicle may not be used on a public road if ..."
     }
 ]

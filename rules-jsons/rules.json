@@ -1,287 +1,42 @@
 [
     {
-        "id": 1,
-        "name": "",
-        "description":""
+        "image": 0,
+        "instruction": "Motorcycles\n\n1. You may not operate any motorcycle, on a public road unless all lamps fitted to such motorcycles are undamaged, properly secured and capable of being lighted at all times.\n\n2. When riding a motorcycle on a public road, the headlamp must be lighted at all times. (During night and day)\n\nLight and Heavy Motor Vehicles\n\n1. When using any light or heavy motor vehicle on a public road; all lamps must be undamaged, not obscured, properly secured, and capable of being lit at all times; \n\n2. The headlamps, rear lamps and number plate lamps must be kept lighted during the period;\n‣ between sunset and sunrise, and \n‣ at any other time when, due to insufficient light or unfavourable weather conditions, persons and vehicles upon the public road are not clearly discernible at a distance of 150 metres. \n\n3. Provided that these provisions shall not apply to a motor vehicle, which is parked;\n‣ off the roadway of a public road, \n‣ in a parking place demarcated by an appropriate road traffic sign, or\n‣ within a distance of 12 metres from a lighted street lamp illuminating the road on which such vehicle is parked.\n",
+        "name": "LIGHTS"
     },
     {
-        "id": 2,
-        "name": "",
-        "description":""
+        "image": 0,
+        "instruction": "1. Every headlamp emitting a dipped-beam must be so adjusted and maintained to be capable of adequately illuminating an area ahead of the motor vehicle, enabling the driver/rider to see any person, vehicle or substantial object at a distance of at least 45 metres ahead of the motor vehicle.\n",
+        "name": "DIPPED BEAM"
     },
     {
-        "id": 3,
-        "name": "",
-        "description":""
+        "image": 0,
+        "instruction": "1. Every headlamp emitting a main-beam (bright), must be so adjusted and maintained that it shall be capable of adequately illuminating an area ahead of the motor vehicle, enabling the driver/rider to see any person, vehicle or substantial object at a distance of at least 100 metres.\n\n2. Remember to dip the main-beam (bright) of your vehicle for oncoming traffic, as well as when following another vehicle.\n",
+        "name": "MAIN BEAM (BRIGHT)"
     },
     {
-        "id": 4,
-        "name": "",
-        "description":""
+        "image": 0,
+        "instruction": "1. A vehicle may not be driven on a public road with only the parking lamps lighted while such vehicle is in motion.\n",
+        "name": "PARKING LAMPS"
     },
     {
-        "id": 5,
-        "name": "",
-        "description":""
+        "image": 0,
+        "instruction": "1. You may not ride any motorcycle or a motor tricycle on a public road unless such cycle is fitted with a rear lamp emitting a red light to the rear.\n\n2. You may not drive a light motor vehicle on a public road unless it is fitted with lamps at the rear, emitting a red light to the rear.\n\n3. You may not drive a heavy motor vehicle on a public road unless such motor vehicle is fitted with at least one lamp on each side at the rear emitting a red light to the rear.\n",
+        "name": "REAR LAMPS"
     },
     {
-        "id": 6,
-        "name": "",
-        "description":""
+        "image": 0,
+        "instruction": "1. A motor vehicle may not be used on a public road if it is fitted with a spot lamp, which can be so adjusted as to enable a beam of light emit there from to be deflect in any direction. Provided that a spot lamp which is adjustable —\n‣ may be fitted and used for official purposes on any ambulance, rescue vehicle, fire fighting vehicle, police vehicle or traffic control vehicle,\n‣ may be fitted to a vehicle owned by a medical practitioner or veterinarian, and used for professional duties only; or\n‣ may be fitted to a breakdown vehicle or a vehicle employed in connection with the supply of electricity or other public essential services: Provided that it is used solely at the scene of an accident or breakdown or for the examination of overhead telephone, telegraph or power lines.\n",
+        "name": "SPOT LAMP"
     },
     {
-        "id": 7,
-        "name": "",
-        "description":""
+        "image": 0,
+        "instruction": "1. No vehicle may be driven on a public road while any fog lamp fitted to such vehicle is lit, except in conditions of poor visibility caused by;\n‣ snow, \n‣ fog, \n‣ mist, \n‣ dust, or \n‣ smoke.",
+        "name": "FOG LAMPS"
     },
     {
-        "id": 8,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 9,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 10,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 11,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 12,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 13,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 14,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
-    },
-    {
-        "id": 15,
-        "name": "",
-        "description":""
+        "image": 0,
+        "instruction": "1. You may not drive a light motor vehicle or motorcycle on a public road unless it is fitted with stop lamps at the rear. When in use, they must emit a red light, which must be greater than that of the light emitted by the",
+        "name": ""
     }
 ]
