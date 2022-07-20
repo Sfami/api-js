@@ -1,19 +1,19 @@
 [
     {
         "name": "Road Signs",
-        "description": "Learn about all the road signs controls that you will need to know to pass the K53 learner\u0027s test.",
+        "description": "Learn about all the road signs controls that you will need to know to pass the K53 learners test.",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
 
     },
     {
         "name": "Road Rules",
-        "description": "Learn about all the rules of the road that you will need to know to pass the K53 learner\u0027s test.",
+        "description": "Learn about all the rules of the road that you will need to know to pass the K53 learners test.",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
 
     },
     {
         "name": "Controls",
-        "description": "Learn about all the vehicle controls that you will need to know to pass the K53 learner\u0027s test.",
+        "description": "Learn about all the vehicle controls that you will need to know to pass the K53 learners test.",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     }
 ]
