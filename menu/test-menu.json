@@ -1,39 +1,39 @@
 [
     {
         "id": 1,
-        "name": "Controls Test",
+        "name": "Road Layout Signs",
         "where": "At intersections.",
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
-        "description": "Test your knowledge of Vehicle Controls by taking example test.",
+        "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
-
     },
     {
         "id": 2,
-        "name": "Road Signs Test",
+        "name": "Direction of Movement Signs",
         "where": "At intersections.",
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
-        "description": "Test your knowledge of Road Signs by taking example test.",
+        "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id": 3,
-        "name": "Road Rules Test",
+        "name": "Symbolic Signs",
         "where": "At intersections.",
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
-        "description": "Test your knowledge of Road Signs by taking example test.",
+        "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
-    },
+    }, 
+
     {
         "id": 4,
-        "name": "K53 Test",
+        "name": "Symbolic Signs",
         "where": "At intersections.",
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
-        "description": "Prepare for K53 Test by taking this test which includes Vehicle Controls, Road Rules and Road Signs.",
+        "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     }
 ]
