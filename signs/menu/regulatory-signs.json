@@ -2,42 +2,63 @@
     {
         "id": 1,
         "name": "Control Signs",
+        "where": "At intersections.",
+        "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
+        "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id": 2,
         "name": "Command Signs",
+        "where": "At intersections.",
+        "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
+        "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id": 3,
         "name": "Prohibition Signs",
+        "where": "At intersections.",
+        "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
+        "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id": 4,
         "name": "Reservation Signs",
+        "where": "At intersections.",
+        "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
+        "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id": 5,
         "name": "Comprehensive Signs",
+        "where": "At intersections.",
+        "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
+        "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id": 6,
         "name": "Secondary Signs",
+        "where": "At intersections.",
+        "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
+        "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id": 7,
         "name": "De-Restriction Signs",
+        "where": "At intersections.",
+        "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
+        "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
         "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     }
