@@ -1,7 +1,7 @@
 [
     {
         "correctAnsNo": 1,
-        "image": 2131231005,
+        "image": 0,
         "option1": "A. To park your vehicle in that area.",
         "option2": "B. To drive slow for the next 100m.",
         "option3": "C. To park your vehicle at the nearest park.",
@@ -10,7 +10,7 @@
     },
     {
         "correctAnsNo": 2,
-        "image": 2131230892,
+        "image": 0,
         "option1": "A. A hospital.",
         "option2": "B. A crossroad.",
         "option3": "C. A sharp curve.",
@@ -19,7 +19,7 @@
     },
     {
         "correctAnsNo": 2,
-        "image": 2131230999,
+        "image": 0,
         "option1": "A. To use your hooter at other road users.",
         "option2": "B. To use your hooter and make sure the noise level of your vehicle is very low.",
         "option3": "C. To play loud music from your stereo.",
@@ -28,7 +28,7 @@
     },
     {
         "correctAnsNo": 3,
-        "image": 2131231069,
+        "image": 0,
         "option1": "A. A town ahead.",
         "option2": "B. Right turn ahead.",
         "option3": "C. T-Junction ahead.",
@@ -37,7 +37,7 @@
     },
     {
         "correctAnsNo": 3,
-        "image": 2131231001,
+        "image": 0,
         "option1": "A. Driving for 6 hours without stopping.",
         "option2": "B. Using hand signals for other road users.",
         "option3": "C. Picking up passengers or hitchhikers for the next 500m.",
@@ -46,7 +46,7 @@
     },
     {
         "correctAnsNo": 2,
-        "image": 2131230903,
+        "image": 0,
         "option1": "A. A dual roadway ending.",
         "option2": "B. A dual roadway beginning.",
         "option3": "C. Road widening.",
@@ -55,7 +55,7 @@
     },
     {
         "correctAnsNo": 1,
-        "image": 2131231085,
+        "image": 0,
         "option1": "A. Entering a certain road or section of a road without special authorisation.",
         "option2": "B. Driving your vehicle on the two solid line.",
         "option3": "C. Overtaking another vehicle.",
@@ -64,7 +64,7 @@
     },
     {
         "correctAnsNo": 3,
-        "image": 2131231028,
+        "image": 0,
         "option1": "A. Primary school ahead.",
         "option2": "B. Traffic signals ahead.",
         "option3": "C. Pedestrian crossing ahead.",
@@ -73,7 +73,7 @@
     },
     {
         "correctAnsNo": 2,
-        "image": 2131231002,
+        "image": 0,
         "option1": "A. Using hand signals.",
         "option2": "B Turning left at an intersection.",
         "option3": "C. Driving on the left lane of the road.",
@@ -82,7 +82,7 @@
     },
     {
         "correctAnsNo": 1,
-        "image": 2131231098,
+        "image": 0,
         "option1": "A. A yield sign.",
         "option2": "B. A traffic circle.",
         "option3": "C. A stop sign.",
@@ -91,7 +91,7 @@
     },
     {
         "correctAnsNo": 1,
-        "image": 2131231028,
+        "image": 0,
         "option1": "A. A demarcated pedestrian crossing ahead.",
         "option2": "B. A primary school.",
         "option3": "C. Pedestrian walking ahead.",
@@ -100,7 +100,7 @@
     },
     {
         "correctAnsNo": 1,
-        "image": 2131230868,
+        "image": 0,
         "option1": "A. Only mini-buses may drive there.",
         "option2": "A. Only buses may drive there.",
         "option3": "A. Only tour buses may drive there.",
@@ -109,7 +109,7 @@
     },
     {
         "correctAnsNo": 2,
-        "image": 2131230924,
+        "image": 0,
         "option1": "A. Dead end ahead.",
         "option2": "B. Gravel road beginning ahead.",
         "option3": "C. T-Junction ahead.",
@@ -118,7 +118,7 @@
     },
     {
         "correctAnsNo": 1,
-        "image": 2131230890,
+        "image": 0,
         "option1": "A. Construction vehicles.",
         "option2": "B. Buses.",
         "option3": "C. Delivery vehicles.",
@@ -127,7 +127,7 @@
     },
     {
         "correctAnsNo": 3,
-        "image": 2131231042,
+        "image": 0,
         "option1": "A. The road ahead is closed.",
         "option2": "B. There is a gate on this road ahead.",
         "option3": "C. The road narrows when crossing the bridge.",
@@ -136,11 +136,137 @@
     },
     {
         "correctAnsNo": 2,
-        "image": 2131230806,
+        "image": 0,
         "option1": "A. Only buses are allowed here.",
         "option2": "B. Only abnormal vehicles are allowed here.",
         "option3": "C. Only vehicles carrying dangerous substances are allowed here.",
         "option4": "",
         "question": "What does this road sign command?."
+    },
+    {
+        "correctAnsNo": 1,
+        "image": 0,
+        "option1": "A. A one vehicle width structure ahead.",
+        "option2": "B. Only taxis may drive there.",
+        "option3": "C. A bus reservation only ahead.",
+        "option4": "",
+        "question": "This road sign warns you of what?"
+    },
+    {
+        "correctAnsNo": 3,
+        "image": 0,
+        "option1": "A. Motor cars.",
+        "option2": "B. Animal drawn vehicles.",
+        "option3": "C. Rickshaws",
+        "option4": "",
+        "question": "This road sign commands that only ... may use this part of the road."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. Two way road ahead.",
+        "option2": "B Road narrows fro both sides ahead.",
+        "option3": "C. Pedestrian crossing ahead.",
+        "option4": "",
+        "question": "This road sign warns you of what?"
+    },
+    {
+        "correctAnsNo": 1,
+        "image": 0,
+        "option1": "A. Switch headlamps on.",
+        "option2": "B. Turn up the volume of your stereo.",
+        "option3": "C. Drive at high speed.",
+        "option4": "",
+        "question": "What should be your reaction when you approach this road sign?"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. A tunnel ahead.",
+        "option2": "B. A pay toll.",
+        "option3": "C. A truck toll ahead. ",
+        "option4": "",
+        "question": "This road sign informs you of what?"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. (i), (ii), and (iii) are correct.",
+        "option2": "B. (i) and (ii) are correct.",
+        "option3": "C. (i) only is correct.",
+        "option4": "",
+        "question": "How should vehicle drivers react to this road marking?\n(i) Do not drive on this part of the road.\n(ii) You can park to change your tyre.\n(iii) You may stop for a break."
+    },
+    {
+        "correctAnsNo": 3,
+        "image": 0,
+        "option1": "A. Drive around in circles without stopping.",
+        "option2": "B. U-turn",
+        "option3": "C. Drive in a clockwise direction at the junction if it is safe to do so.",
+        "option4": "",
+        "question": "What should you do when you come across this road sign?"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. Parking is prohibited in this area.",
+        "option2": "B. You may park your vehicle here.",
+        "option3": "C. Mall parking lot available.",
+        "option4": "",
+        "question": "This road marking informs drivers that ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. Only taxis may drive there.",
+        "option2": "B. Only motor cars may drive there.",
+        "option3": "C. Only mini-buses may drive there.",
+        "option4": "",
+        "question": "This road sign commands what?"
+    },
+    {
+        "correctAnsNo": 3,
+        "image": 0,
+        "option1": "A. Only stop when directed to do so by s traffic officer.",
+        "option2": "B. Drive for 60km without stopping.",
+        "option3": "C. Only proceed in the direction indicated by the arrow in your lane.",
+        "option4": "",
+        "question": "When approaching one of this road markings a driver should ... "
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. Motor cars.",
+        "option2": "B. Animal-drawn vehicles.",
+        "option3": "C. Rickshaws",
+        "option4": "",
+        "question": "This road sign commands that only ... may use this part of the road."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "",
+        "option2": "",
+        "option3": "",
+        "option4": "",
+        "question": "What should be your reaction when you approach this road marking at a parking bay?\n(i) Park your vehicle at any spot you like.\n(ii) Parking available only for an ambulance.\n(iii) For emergency you may park on the SOS sign."
+    },
+    {
+        "correctAnsNo": 1,
+        "image": 0,
+        "option1": "A. Vehicles with a (GVM) less or equal the mass indicated on the sign.",
+        "option2": "B. Vehicles with a (GVM) less than the mass indicated on the sign.",
+        "option3": "C. Vehicles with a (GVM) exceeding the mass indicated on the sign.",
+        "option4": "",
+        "question": "This road sign commands that only ... may use this part of the road."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. This part of the road may not be used by buses.",
+        "option2": "B. This part of the road is for buses only.",
+        "option3": "C. This part of the road may be used by pedestrians as a bus stop.",
+        "option4": "",
+        "question": "This road marking warns road users that ..."
     }
 ]

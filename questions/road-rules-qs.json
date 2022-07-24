@@ -42,7 +42,7 @@
         "option2": "B. (i) only is correct.",
         "option3": "C. (ii) and (iii) are correct.",
         "option4": "D. All of the above are correct.",
-        "question": "Your vehicle\u0027s headlights must be switched on:\n(i) At any time of the day when you cannot see persons and vehicles 150m in front of you.\n(ii) From sunset to sunrise.\n(iii) When it rains and you cannot see vehicles 100m in front of you."
+        "question": "Your vehicle's headlights must be switched on:\n(i) At any time of the day when you cannot see persons and vehicles 150m in front of you.\n(ii) From sunset to sunrise.\n(iii) When it rains and you cannot see vehicles 100m in front of you."
     },
     {
         "correctAnsNo": 3,
@@ -78,7 +78,7 @@
         "option2": "B. In such a manner that willfully disregard the safety of individuals or property.",
         "option3": "C. If it does not have a car stereo.",
         "option4": "D. It is registered.",
-        "question": "A driver/rider should not drive/ride a vehicle on a public road ..."
+        "question": "A driver\/rider should not drive\/ride a vehicle on a public road ..."
     },
     {
         "correctAnsNo": 2,
@@ -112,8 +112,332 @@
         "image": 0,
         "option1": "A. (i) only is correct.",
         "option2": "B. (ii) and (iii)  is correct.",
-        "option3": "C. All the ",
+        "option3": "C. All the above.",
         "option4": "",
-        "question": "A vehicle may not be used on a public road if ..."
+        "question": "A driver\/rider of a vehicle on a public road should stop if ...\n(i) Is in compliance with an instruction conveyed by a traffic sign.\n(ii) He was signaled by a person leading or driving any bovine animal on the road.\n Animals are seen crossing the road and can only move on when all the animals have crossed and the road is safe to continue."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. There is an obstruction and moving traffic",
+        "option2": "B. The vehicle can cross the road without obstructing or endangering any traffic.",
+        "option3": "C. The road is clear of moving traffic.",
+        "option4": "",
+        "question": "A driver\/rider of a vehicle may not enter\/cross a public road if ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. The length of the tow-rope, chain or tow-bar between the two vehicles is less than 3,5 metres.",
+        "option2": "B. The length of the tow-rope, chain or tow-bar between the two vehicles is 3,5 metres.",
+        "option3": "A. The length of the tow-rope, chain or tow-bar between the two vehicles is 2,5 metres.",
+        "option4": "",
+        "question": "You may tow another vehicle on a public road if ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. (i) and (ii) are correct.",
+        "option2": "B. (i) only is correct.",
+        "option3": "C. All of the above.",
+        "option4": "",
+        "question": "Which of the following vehicles are not allowed on a freeway\n(i) Vehicle drawn by animal.\n(ii) Pedal cycle.\n(iii) A tractor"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. 9m",
+        "option2": "B. 12m",
+        "option3": "C. 50m",
+        "option4": "",
+        "question": "Pedestrians should cross a roadway only at a pedestrian crossing, at an intersection or a distance further than ... from such pedestrian or intersection crossing."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. When you vehicle has broken down.",
+        "option2": "B. When parked outside a friend's house on the wrong side of the road, facing oncoming traffic.",
+        "option3": "C. When you want to stop for a lunch break next to the road.",
+        "option4": "",
+        "question": "When can you use your emergency warning triangle"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. At least one windscreen wiper, to wipe the windscreen directly in front if the driver.",
+        "option2": "B. Two windscreen wipers, to clean",
+        "option3": "",
+        "option4": "",
+        "question": "How many windscreen wipers should a light or heavy motor vehicle have and when in operation they should wipe the outside of the windscreen continuously, evenly, and adequately."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. 120 km\/h",
+        "option2": "B. 100 km\/h",
+        "option3": "C. 60 km\/h",
+        "option4": "",
+        "question": "A general speed limit of ... should apply in every freeway respectfully."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. 5 days in an urban area.",
+        "option2": "B. 7 days in the same place on a public road within an urban area.",
+        "option3": "C. 1 day in the same place on a public road.",
+        "option4": "",
+        "question": "A vehicle is deemed abandoned if it is left for ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. Be handled with both hands.",
+        "option2": "B. Be handled with one hand.",
+        "option3": "C. Not handled with either hands or any other part of the body.",
+        "option4": "",
+        "question": "A cellular, mobile telephone or any other communication device should ... while driving."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. Ordered to do so by a traffic officer.",
+        "option2": "B. He\/she feels like.",
+        "option3": "C. He\/she is under the influence of alcohol.",
+        "option4": "",
+        "question": "A driver\/rider can disobey any road traffic sign or rule of the road if ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. It is beyond your control.",
+        "option2": "B. You have a flat tyre.",
+        "option3": "C. It will obstruct any private or public vehicular entrance.",
+        "option4": "",
+        "question": "You should not park your vehicle on the roadway of a road if ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. You have a flat tyre.",
+        "option2": "B. It is beyond your control.",
+        "option3": "C. You are within 5 metres of any intersection.",
+        "option4": "",
+        "question": "You should not park your vehicle on the roadway of a road within an urban area if ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. Exceed the speed limit when overtaking\/passing",
+        "option2": "B. Pass to the right at a safe distance when overtaking.",
+        "option3": "C. Have passengers when overtaking.",
+        "option4": "",
+        "question": "A driver\/rider of a vehicle can never ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. He\/She can do so without encroaching on the right-hand side of the roadway.",
+        "option2": "B. The roadway of such a road is restricted to vehicles moving in one direction.",
+        "option3": "C. Approaching a curve.",
+        "option4": "",
+        "question": "The driver\/rider of a vehicle may not overtake another vehicle moving in the same direction on a public road when ... "
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. Reg flag or flags (30mm x 30mm) during the day, and retro reflectors at night.",
+        "option2": "B. Reg flag or flags (100mm x 100mm) during the day, and retro reflectors at night.",
+        "option3": "C. Reg flag or flags (300mm x 300mm) during the day, and retro reflectors at night.",
+        "option4": "",
+        "question": "A load that projects more than 150 millimeters to the side or 300 millimeters to the rear must be marked by a ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. That is securely fastened to such vehicle.",
+        "option2": "B. That is safely contained within the body of such vehicle.",
+        "option3": "C. That they may obscure the drivers\/riders view of traffic at the front, on either sides or to the rear.",
+        "option4": "",
+        "question": "Goods should not be loaded on the vehicle in a way ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. 60 km\/h",
+        "option2": "B. 120 km\/h",
+        "option3": "C. 100 km\/h",
+        "option4": "D. 80km\/h",
+        "question": "A speed limit of ... should apply in respect of every public road other than a freeway situated outside an urban area."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. You are using a tow-rope or chain and travelling 30 km\/h.",
+        "option2": "B. You are using a draw bar or a tow-bar and travelling 30 km\/h.",
+        "option3": "C. You are using a chain.",
+        "option4": "D. You do not have a driver's license.",
+        "question": "You can tow another vehicle on a public road if ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. 20 hours in the same place on a public road.",
+        "option2": "B. 12 hours in the same place on a public road outside an urban area.",
+        "option3": "C. 24 hours in the same place on a public road outside an urban area.",
+        "option4": "B. 48 hours in the same place on a public road outside an urban area.",
+        "question": "A vehicle is deemed abandoned if it is left for ..."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "A. (i) and (ii) are correct.",
+        "option2": "B. (i) only is correct.",
+        "option3": "C. All of the above.",
+        "option4": "",
+        "question": "A South African Bureau of Standards (SABS) approved number plate should ...\n(i) be affixed in such a manner that each letter and figure thereon is clearly legible.\n(ii) be affixed in an upright position or within degrees of such position.\n(iii) have a dark background."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "Are over 17 years old.",
+        "option2": "You already have a licence for the same class of vehicle",
+        "option3": "Wear glasses.",
+        "option4": "60 km\/h",
+        "question": "You may not get a learner's licence if you:"
+    },
+    {
+        "correctAnsNo": 1,
+        "image": 0,
+        "option1": "Carry passengers in your car.",
+        "option2": "Drive faster than 100 km\/h.",
+        "option3": "Drive without having your licence with you.",
+        "option4": "60 km\/h",
+        "question": "When you only have a learner's licence you are not allowed to:"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "80 km\/h",
+        "option2": "60 km\/h",
+        "option3": "100 km\/h",
+        "option4": "20 km\/h",
+        "question": "If there are no speed limit signs, the general speed limit in urban areas (towns and cities) is:"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "(1), (2), and (3) are all true.",
+        "option2": "Only (1) and (2) are true.",
+        "option3": "Only (1) is true.",
+        "option4": "60 km\/h",
+        "question": "The general speed limit on national roads in 100 km\/h for the following vehicles:\n(1) Light motor vehicles.\n(2)Bakkies.\n(3)Passenger buses."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "Pull off the road immediately.",
+        "option2": "Drive at 80 km\/h",
+        "option3": "Drive at 100 km\/h",
+        "option4": "60 km\/h",
+        "question": "If you do not know what the speed limit on a national is, you should:"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "The maximum speed limit for tractors on public roads is 80 km\/h.",
+        "option2": "Minibuses carrying passengers may never travel faster than 100 km\/h",
+        "option3": " If a road sign gives a different speed limit than 60 km\/h in an urban area it must be obeyed.",
+        "option4": "60 km\/h",
+        "question": "Which of the following is false?"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "(1), (2), and (3) are all true.",
+        "option2": "Only (1) and (2) are true.",
+        "option3": "Only (1) is true.",
+        "option4": "60 km\/h",
+        "question": "The general speed limit on freeways roads in 120 km\/h for the following vehicles:\n(1) Light motor vehicles.\n(2)Bakkies.\n(3)Passenger buses."
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "Overtake on the left where there is only one lane but the road is wide enough for two cars outside and urban area.",
+        "option2": "Overtake when directed to do so by an officer.",
+        "option3": "Indicate to the left when you are overtaking on the left.",
+        "option4": "",
+        "question": "You may not:"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "6 months",
+        "option2": "12 months",
+        "option3": "18 months",
+        "option4": "",
+        "question": "Your vehicle's clearance certificate (licence disc) is valid for:"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "Pass other vehicles on the left-hand side if they are turning right.",
+        "option2": "Pass other vehicles on the left-hand side if they are turning right as long as you don't o onto the road shoulder.",
+        "option3": "You may not pass vehicles on the left-hand side.",
+        "option4": "",
+        "question": "On a public road, you are allowed to:"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "There is a sign prohibiting overtaking.",
+        "option2": "You did not cross any barriers or solid road markings to get there.",
+        "option3": "The closest oncoming car is 2 seconds away.",
+        "option4": "",
+        "question": "You may drive on the right hand side of a two-way road if:"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "Vets",
+        "option2": "Farmers",
+        "option3": "Four-wheel drive vehicles.",
+        "option4": "",
+        "question": "Adjustable spotlights may be used by the following people on a public road:"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "Tread pattern",
+        "option2": "Steel belts",
+        "option3": "Cuts of less than 10% of the tyre width.",
+        "option4": "",
+        "question": "You may not have any ... showing on your tyre:"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "25mm all over",
+        "option2": "1mm all over",
+        "option3": "10mm all over",
+        "option4": "",
+        "question": "Your tyre tread must be deeper than:"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "You may not stop facing oncoming traffic.",
+        "option2": "If you are in a traffic circle you must yield to people entering the circle in front of you.",
+        "option3": "The maximum amount of time that a vehicle can be parked in one place without moving outside an urban area is 24 hours.",
+        "option4": "",
+        "question": "Which one is not correct?"
+    },
+    {
+        "correctAnsNo": 2,
+        "image": 0,
+        "option1": "Parking brake",
+        "option2": "Emergency brake",
+        "option3": "Foot brake",
+        "option4": "",
+        "question": "The service brake of a light motor vehicle is also known as the:"
     }
 ]
