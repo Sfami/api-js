@@ -51,7 +51,7 @@
       "purpose":"To indicate that there is an arrestor bed ahead and to  indicate the entrance to such an arrestor bed. ",
       "action":"Should the brakes of your vehicle fail, drive straight into the  arrestor bed.  ",
       "description":"",
-      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+      "image":"https://sfamisoftwares.com/api-js/images/arrestor_bed.png"
    },
    {
       "id":1,
@@ -81,4 +81,3 @@
       "image":"https://sfamisoftwares.com/api-js/images/stop.png"
    }
 ]
->>>>>>> Stashed changes
