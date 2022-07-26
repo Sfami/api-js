@@ -1,7 +1,7 @@
 [
     {
        "purpose":" To indicate that there is an exit about 300m, 200m and 100m ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/count_down_signs.png",
        "name":" Count down signs (IN3, IN2, IN1, TIN3, TIN2, TIN1)(blue-yellow-brown) ",
        "action":" If possible enter the exit at the same speed as the maximum speed for  that road.",
        "description":"",
@@ -10,7 +10,7 @@
     },
     {
        "purpose":" To inform you that the road ahead or the road to the left or  right ends. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/cul_de_sac.png",
        "name":" Cul-de-sac (IN4, IN6, IN5)  ",
        "action":" Do not turn in at such a road unless you are going to a  destination in the road that ends.",
        "description":"",
@@ -19,7 +19,7 @@
     },
     {
        "purpose":" To inform you that you have the right of way at the intersection ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/right_of_way.png",
        "name":" Right-of-way (IN7) ",
        "action":" Do not slow down unnecessarily, but make sure that other traffic will  yield. ",
        "description":"",
@@ -28,7 +28,7 @@
     },
     {
        "purpose":" To inform you of the existence of a park-and-ride terminus that has a bus  (IN9) or train (IN10) service. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/park_and_ride.png",
        "name":" Park and ride (IN9, IN10) ",
        "action":" Stop in this parking area if you want to reach your destination using other  transport. ",
        "description":"",
@@ -37,7 +37,7 @@
     },
     {
        "purpose":" To give more information about the main message on regulatory, warning  or diagrammatical guidance signs. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/supplementary_plates.png",
        "name":" Supplementary plates (IN11.1, TIN11.2, IN 11.3, TIN11.4, IN11.5) ",
        "action":" Pay attention to these signs in order to realise what the danger is, what a  safe speed is, how far away the danger is and the distance the danger will  continue. Examples:",
        "description":"",
@@ -45,8 +45,17 @@
        "id":1
     },
     {
+       "purpose":" To give more information about the main message on regulatory, warning  or diagrammatical guidance signs. ",
+       "image":"https://sfamisoftwares.com/api-js/images/ex_of_supplementary_plates.png",
+       "name":"Examples of Supplementary plates",
+       "action":" Pay attention to these signs in order to realise what the danger is, what a  safe speed is, how far away the danger is and the distance the danger will  continue. Examples:",
+       "description":"",
+       "where":" Below another sign. ",
+       "id":1
+    },
+    {
        "purpose":" To inform you of the existence of an information office or notice board. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/information.png",
        "name":" Information centre (IN12) ",
        "action":" You can obtain information about the area at this sign.",
        "description":"",
@@ -55,7 +64,7 @@
     },
     {
        "purpose":" To inform you of a temporary experiment or research being carried out on the  road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road_experiment.png",
        "name":" Road experiment (TIN13) ",
        "action":" Obey all other road traffic signs.  Look out for vehicles, pedestrians and other hazards engaged in the experiment. ",
        "description":"",
@@ -64,7 +73,7 @@
     },
     {
        "purpose":" To inform you that the traffic signals on this route are co-ordinated and that the  signals will be green at allthe subsequent intersections if you maintain the  indicated speed. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/coordinated_traffic_signals.png",
        "name":" Co-ordinated traffic signals (IN14) ",
        "action":" If possible maintain the recommended speed. However, make sure that it is safe to  enter every intersection andlook out for drivers that do not yield. The speed  indicated is a recommendation and not a speed limit. ",
        "description":"",
@@ -73,7 +82,7 @@
     },
     {
        "purpose":" To point out that the signals at this intersection does not follow the normal  sequence. At a normal intersectionyou would expect that the signal in your direction will change to green after the signal for cross traffic was yellow. At this intersection your signal may remain red whilst the signal in the opposite direction  changes to green. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/multiphase_traffic_signals.png",
        "name":" Multi-phase traffic signals (IN15) ",
        "action":" Do not move off when approaching traffic moves off. Wait until the signal is green.  The sequence of the trafficsignals at this intersection can be different during  normal and during peak times.",
        "description":"",
@@ -91,7 +100,7 @@
     },
     {
        "purpose":" To show that there is a transport modal transfer point or terminus nearby where  passengers may change their mode of transport. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/modal_transfer.png",
        "name":" Modal transfer (IN17, IN18, IN19) ",
        "action":" Make sure that it is safe to slow down and stop to drop someone off or pick  someone up. Also look out for pedestrians who may cross the road.",
        "description":"",
