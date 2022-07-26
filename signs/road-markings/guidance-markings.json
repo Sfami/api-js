@@ -1,74 +1,65 @@
 [
     {
-        "id": 1,
-        "name": "Control hand signals for use by traffic officers",
-        "where": "On any road.",
-        "purpose": "To direct traffic in areas where there is high traffic congestion, at the scene of an accident or the normal traffic signals are not operational.",
-        "action": "Driver must focus on the signals given by the officer, and strictly adhere to the signal given.\n The traffic officer signals takes precedence over any other traffic signal.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To show that you are using a part of the road with traffic in the same  direction. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Lane lines (GM1) ",
+       "action":" Drive in the centre of your demarcated lane. ",
+       "description":"",
+       "where":" On any road. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Stop traffic approaching from the front",
-        "where": "On any public road.",
-        "purpose": "Bring traffic to a stop.",
-        "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To guide you to follow the correct route in the intersection. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Guide lines (GM2) ",
+       "action":" Turn according to the markings. ",
+       "description":"",
+       "where":" In an intersection. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Stop",
-        "where": "On any public road.",
-        "purpose": "Stop traffic approaching from the rear",
-        "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To indicate an increase in the number of lanes ahead. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Bifurcation arrows (GM3) ",
+       "action":" Ensure that you do not straddle any lane markings. ",
+       "description":"",
+       "where":" On any road. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Stop",
-        "where": "On any public road.",
-        "purpose": "Stop traffic approaching from the front and rear",
-        "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To indicate the direction you may drive in a lane or on a road. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Information arrows (GM4.1, GM4.2) ",
+       "action":" The driver must be guided by the arrows and never, unless  otherwise requested by a traffic officer, drive in the direction  opposite to what the arrows show.",
+       "description":"",
+       "where":" On any road especially one way streets or wide intersections  with a complex layout. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Proceed",
-        "where": "On any public road.",
-        "purpose": "Indicates to the driver that he/she may proceed",
-        "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To indicate a section of the road to be used by cyclists to cross the road. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Bicycle crossing lines (GM5) ",
+       "action":" Look out for cyclists crossing or who want to cross the road.",
+       "description":"",
+       "where":" On any road especially in urban areas. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Proceed flag signal",
-        "where": "On any public road.",
-        "purpose": "To direct traffic in areas where there is road works ahead, herdsman leading cattle or other animals across or next to a roadway.",
-        "action": "...",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" As additional markings with standard signs and markings to inform you that an area is reserved for  a specific group or that a road is leading to a specific destination. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Road marking symbols ( GM6.1, GM6.2, GM6.3) ",
+       "action":" Do not use a road or a marked portion of a road if you are not part of the group identified by the  marking. ",
+       "description":"",
+       "where":" On any road. At a cycle lane, a road that leads to an airport and where a parking bay is reserved for the handicapped only. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Stop flag signal",
-        "where": "On any public road.",
-        "purpose": "To direct traffic in areas where there is road works ahead, herdsman leading cattle or other animals across or next to a roadway.",
-        "action": "...",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
-    },
-    {
-        "id": 1,
-        "name": "Warning flag signal",
-        "where": "On any public road.",
-        "purpose": "Warns a road user to proceed slowly and be alert.",
-        "action": "...",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To supply you with additional information. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Word markings (GM7) ",
+       "action":" Read the message on the road and then concentrate on the possible danger indicated by the  message.",
+       "description":"",
+       "where":" On any road. ",
+       "id":1
     }
-]
+ ]

@@ -1,74 +1,164 @@
 [
     {
-        "id": 1,
-        "name": "Control hand signals for use by traffic officers",
-        "where": "On any road.",
-        "purpose": "To direct traffic in areas where there is high traffic congestion, at the scene of an accident or the normal traffic signals are not operational.",
-        "action": "Driver must focus on the signals given by the officer, and strictly adhere to the signal given.\n The traffic officer signals takes precedence over any other traffic signal.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To indicate where you must bring your vehicle to a standstill. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Stop line (RTM1) ",
+       "action":" Stop with the front of your vehicle behind the stop sign. If there is no stop sign, the  stop line will have the same meaning as a stop sign. ",
+       "description":"",
+       "where":" On any road especially at intersections and pedestrian crossings. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Stop traffic approaching from the front",
-        "where": "On any public road.",
-        "purpose": "Bring traffic to a stop.",
-        "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To indicate that you must give priority to all who cross in front of you at this point. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Yield line (RTM2) ",
+       "action":" Give way to any one who crosses your path of travel or who wants to cross your  path. Even if there is no yield sign, you still have to give way. ",
+       "description":"",
+       "where":" On any road especially at intersections. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Stop",
-        "where": "On any public road.",
-        "purpose": "Stop traffic approaching from the rear",
-        "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To inform you that priority must be given to pedestrians crossing or wanting to  cross the road at these places. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Pedestrian crossing lines (RTM3), Block pedestrian crossing (RTM4) ",
+       "action":" Look out for any pedestrians crossing or wanting to cross the road and give them  priority by slowing down or stopping.",
+       "description":"",
+       "where":" On any road especially in urban areas at intersections and close to schools. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Stop",
-        "where": "On any public road.",
-        "purpose": "Stop traffic approaching from the front and rear",
-        "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To inform that it is prohibited to drive with any part of your vehicle on the right hand side of this line. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" No overtaking lines (RM1)(7.3.1)(7.3.2)(7.3.3) ",
+       "action":" Do not cross the line, except to gain direct access to an entrance on the other side  of the line, to gain direct access from such an entrance to the road or to pass a stationary obstruction. In all these cases you must ensure that it is safe to do so. ",
+       "description":"",
+       "where":" On any road that carries two-way traffic (traffic from opposite directions). ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Proceed",
-        "where": "On any public road.",
-        "purpose": "Indicates to the driver that he/she may proceed",
-        "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To inform you that you may not cross this line. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" No crossing Lines (RM2) ",
+       "action":" You may under no circumstances drive on the right hand side or cross these lines  with any part of your vehicle, except to drive around a stationary vehicle or stationary obstruction in the road. ",
+       "description":"",
+       "where":" On any road with two-way traffic. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Proceed flag signal",
-        "where": "On any public road.",
-        "purpose": "To direct traffic in areas where there is road works ahead, herdsman leading cattle or other animals across or next to a roadway.",
-        "action": "...",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To prohibit you from crossing the line. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Channelizing line (RM3) ",
+       "action":" Drive in such a way that no part of your vehicle crosses the line.",
+       "description":"",
+       "where":" On carriageways and at intersections where traffic moves in the same direction. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Stop flag signal",
-        "where": "On any public road.",
-        "purpose": "To direct traffic in areas where there is road works ahead, herdsman leading cattle or other animals across or next to a roadway.",
-        "action": "...",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To indicate where the left or right-edge of the road is. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Left-edge (RM4.1) and right-edge line marking (RM4.2) ",
+       "action":" Avoid driving to the left of the left-edge line. You may,  however drive here only; ∙ whilst being overtaken by another vehicle, ∙ if you can so without endangering yourself, other traffic,  pedestrians or property, ∙ during daytime and ∙ if persons and vehicles on the road are clearly discernible at  a distance of at least 150 metres. It is not compulsory to drive to the left of the line when you  are being overtaken, keep in mind that you have very little  space when doing so. If your vehicle breaks down, stop as far left from the line as  possible and switch on your emergency lights. The right-edge line is usually found on one-way roads such  as dual carriageways or freeways and may not be crossed. ",
+       "description":"",
+       "where":" On the left and right-hand edge of the road. ",
+       "id":1
     },
     {
-        "id": 1,
-        "name": "Warning flag signal",
-        "where": "On any public road.",
-        "purpose": "Warns a road user to proceed slowly and be alert.",
-        "action": "...",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To prohibit drivers from driving in this area. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Painted island (RM5) ",
+       "action":" Drive in such a way that you do not stop, park or drive over the island, unless on  the orders of a traffic orpolice officer, to avoid a collision or in an emergency. ",
+       "description":"",
+       "where":" On any road. ",
+       "id":1
+    },
+    {
+       "purpose":" To indicate where you may park. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Parking bay (RM6) ",
+       "action":" Make sure that your vehicle is parked completely inside the lines that mark the  parking bay. In the case of angle parking you must park as far as possible from the road, with the  front of your vehicle not further than 150mm from the kerb but no part of the  vehicle may be on or over the sidewalk.",
+       "description":"",
+       "where":" On any road especially in urban areas. ",
+       "id":1
+    },
+    {
+       "purpose":" To identify parking only for road users identified by the symbol. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Exclusive parking bay (RM7) ∙ A - AMBULANCE ∙ B - BUS ∙ L - LOADING ZONE ∙ T - TAXI ∙ F - FIRE-FIGHTING ∙ R - RICKSHAW ∙ CD - DIPLOMATIC ∙ MB - MINIBUS ∙ SOS - SOS PHONE ∙ D - DEFENCE FORCE ∙ P - SOUTH AFRICAN POLICE SERVICE ",
+       "action":" If you are not part of the group identified by the sign, you may not  park here. In an emergency you may stop or park at the sign that indicates the  SOS telephone. Only goods vehicles may stop or park in the demarcated are that  indicates a loading zone. ",
+       "description":"",
+       "where":" At parking bays. ",
+       "id":1
+    },
+    {
+       "purpose":" To show that you may only proceed in the direction indicated by the  arrow in your lane. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Mandatory direction arrows (RM8) ",
+       "action":" Choose the correct lane in time to travel in the direction you want to  go. ∙ Make sure that other traffic is obeying the mandatory direction  arrows in their lanes. ∙ Check your blind spot before turning right to see that a vehicle in the  lane next to you who is suppose to turn right because of the  mandatory right-turn arrow in his lane) is not carrying straight on. ",
+       "description":"",
+       "where":" On any road before an intersection ",
+       "id":1
+    },
+    {
+       "purpose":" To identify that part of the carriageway whichis reserved for buses  only during the periods indicated on the sign. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Buslane marking (RM9) ",
+       "action":" If you are not driving a bus do not drive in the lane indicated by the  sign during the times on the sign.",
+       "description":"",
+       "where":" On the left or right-hand side of a road in an urban area. ",
+       "id":1
+    },
+    {
+       "purpose":" To prohibit drivers from stopping in the demarcated area because  this could prevent other traffic from turning or driving further  forward. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Box junction (RM10) ",
+       "action":" Do not stop in the demarcated box and make sure that you will be  able to drive through the intersection before entering the  intersection. ",
+       "description":"",
+       "where":" At intersections. ",
+       "id":1
+    },
+    {
+       "purpose":" To indicate an area where you may not stop except for pedestrians  crossing or wanting to cross the road or for a vehicle that has already  stopped. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Pedestrian crossing ahead lines (RM11) ",
+       "action":" Look out for pedestrians that may cross the road, slow down and  stop if someone wants to cross the road. Do not overtake inside this  area or a vehicle that has stopped at any pedestrian crossing. ",
+       "description":"",
+       "where":" On any road before a pedestrian crossing. ",
+       "id":1
+    },
+    {
+       "purpose":" To prohibit drivers from stopping where stationary vehicles may disrupt the traffic or where the environment obstructs the view and  such vehicles may obstruct the view more. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" No stopping lines (RM12) ",
+       "action":" Except in any emergency, do not stop at these lines. In the case of a broken line, you may not stop during the times  indicated by a road traffic sign. ",
+       "description":"",
+       "where":" On any road. ",
+       "id":1
+    },
+    {
+       "purpose":" To prevent drivers from stopping where stationary vehicles may  disrupt the traffic, or where the environment obstructs the view and  such vehicles obstruct the view more. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" No parking line (RM13) ",
+       "action":" Exception an emergency, you may stop for short periods, but may  not park here. Parking means that a vehicle is stationary (whether the engine is  running or not ) for a longer period than is longer than that needed  to on or off load goods or passengers. ",
+       "description":"",
+       "where":" On any road. ",
+       "id":1
+    },
+    {
+       "purpose":" To indicate the limits within which only cyclists may travel. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Bicycle lane lines (RM14) ",
+       "action":" Do no drive in the demarcated area.",
+       "description":"",
+       "where":" On the left-hand side of any road. ",
+       "id":1
+    },
+    {
+       "purpose":" To indicate the direction you must follow around the circle or mini-circle. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Traffic circle mandatory directional arrows (RM15) ",
+       "action":" Only drive around the circle in the direction indicated by the arrows. Yield to traffic coming from your right hand side. At a mini-circle yield to traffic that reaches their yield line first  before you reach yours. Drive slowly so that you can stop if someone does not yield. ",
+       "description":"",
+       "where":" At traffic circles and mini-circles. ",
+       "id":1
     }
-]
+ ]
