@@ -1,57 +1,83 @@
 [
     {
-        "id": 1,
-        "name": "Time limit subgroup\nTwo-time periods (R) 502\nTwo-time periods/days (R) 50",
-        "where": "Below a regulatory sign on any public road.",
-        "purpose": "To indicate that the regulatory sign applies only for the period(s) or during conditions indicated on this sign.",
-        "action": "Obey the times on this sign.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To indicate that the regulatory sign applies only for the period(s) or during  conditions indicated on this sign. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Time limit subgroup  ∙ Two-time periods (R) 502  ∙ Two-time periods/days (R) 503 ",
+       "action":" Obey the times on this sign. ",
+       "description":"",
+       "where":" Below a regulatory sign on any public road. ",
+       "id":1
     },
     {
-        "id": 2,
-        "name": "Maximum stay during two periods/days (R505, R506)",
-        "where": "Below a regulatory sign on any public road.",
-        "purpose": "To limit the times and periods of stopping.",
-        "action": "Do not stop or park for longer than the times indicated.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To limit the times and periods of stopping. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Maximum stay during two periods/days (R505, R506) ",
+       "action":" Do not stop or park for longer than the times indicated. ",
+       "description":"",
+       "where":" Below a regulatory sign on any public road. ",
+       "id":1
     },
     {
-        "id": 3,
-        "name": "Daytime (R)511",
-        "where": "On any public road.",
-        "purpose": "To inform you that the regulatory sign applies during daytime.",
-        "action": "Obey the regulatory sign during daytime.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To inform you that the regulatory sign applies when visibility is reduced. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Reduced visibility (R )510 ",
+       "action":" Obey the regulatory sign when visibility is reduced. ",
+       "description":"",
+       "where":" Below a regulatory sign on any public road. ",
+       "id":1
     },
     {
-        "id": 4,
-        "name": "Night time (R)512",
-        "where": "On any public road.",
-        "purpose": "To inform you that the regulatory sign only applies during night time.",
-        "action": "Obey the regulatory sign during night time.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To inform you that the regulatory sign applies during daytime. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Daytime (R)511 ",
+       "action":" Obey the regulatory sign during daytime. ",
+       "description":"",
+       "where":" On any public road. ",
+       "id":1
     },
     {
-        "id": 5,
-        "name": "Pay and display (R523)",
-        "where": "Below a regulatory sign.",
-        "purpose": "To indicate that parking fees must be paid in the parking area.",
-        "action": "Pay the parking fee and display the receipt on or within your vehicle.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To inform you that the regulatory sign only applies during night time. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Night time (R)512 ",
+       "action":" Obey the regulatory sign during night time. ",
+       "description":"",
+       "where":" On any public road. ",
+       "id":1
     },
     {
-        "id": 6,
-        "name": "Maximum number of vehicles (R540)",
-        "where": "Below the appropriate regulatory sign.",
-        "purpose": "To indicate to the driver that the reservation indicated on the regulatory sign is further restricted by a maximum number of vehicles as indicated on this sign.",
-        "action": "Do not enter an area if that would mean there would be more than the number of vehicles indicated.",
-        "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+       "purpose":" To indicate that the restriction indicated on the regulatory sign applies  in the direction of the arrow. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Reserved movement left by vehicle class (R520) ∙ Reserved movement right by vehicle class (R521) ∙ Reserved movement to left and right by vehicle class (R522) ",
+       "action":" Obey the primary sign according to the direction indicated. ",
+       "description":"",
+       "where":" Below a regulatory sign. ",
+       "id":1
+    },
+    {
+       "purpose":" To indicate that parking fees must be paid in the parking area. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Pay and display (R523) ",
+       "action":" Pay the parking fee and display the receipt on or within your vehicle.",
+       "description":"",
+       "where":" Below a regulatory sign. ",
+       "id":1
+    },
+    {
+       "purpose":" To indicate that the sign applies to drivers of vehicles operated by the company, owner  or organisation indicatedby the logo or words. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Operator identity (logo) (R530) Operator identity (text) (R531) ",
+       "action":" If your vehicle belongs to the company or organisation indicated by this sign, obey the  regulatory sign. ",
+       "description":"",
+       "where":" Below an appropriate regulatory sign. ",
+       "id":1
+    },
+    {
+       "purpose":" To indicate to the driver that the reservation indicated on the regulatory sign is further  restricted by a maximum number of vehicles as indicated on this sign. ",
+       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "name":" Maximum number of vehicles (R540) ",
+       "action":" Do not enter an area if that would mean there would be more than the number of  vehicles indicated. ",
+       "description":"",
+       "where":" Below the appropriate regulatory sign. ",
+       "id":1
     }
-]
-
+ ]
