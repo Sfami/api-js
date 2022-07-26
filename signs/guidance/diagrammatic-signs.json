@@ -1,4 +1,5 @@
 [
+<<<<<<< Updated upstream
     {
        "purpose":" To guide you by means of a diagram which indicates that one of the lanes of a  carriageway comes to an end. ",
        "image":"https://sfamisoftwares.com/api-js/images/diagrammatic.png",
@@ -81,3 +82,87 @@
        "id":1
     }
  ]
+=======
+   {
+      "id":1,
+      "name":"Traffic movements affected by an obstruction (GS103, GS104)(GS105) ",
+      "where":" On any road ",
+      "purpose":"To guide you by means of a diagram which indicates that one of the lanes of a  carriageway comes to an end. ",
+      "action":" ...",
+      "description":"",
+      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+   },
+   {
+      "id":1,
+      "name":"Additional lane (GS201, GS202, GS210, GS212)(GS211, GS214)  ",
+      "where":" ...  ",
+      "purpose":"To inform you by means of a diagram that the number of lanes of the road which  you are travelling on will be increased soon. Opposing traffic flow is indicated by a dotted arrow.  ",
+      "action":" ...",
+      "description":"",
+      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+   },
+   {
+      "id":1,
+      "name":"Lane-use control by regulation (GS301, TGS302, TGS306, GS305)  ",
+      "where":" ...  ",
+      "purpose":"To guide you by means of a diagram, which indicates that, the right-hand lane of a  two-lane carriageway or part of a carriageway is subject to a compulsory  requirement of a \u2018command\u2019 or \u2018prohibition\u2019 regulatory sign. Opposing traffic flow is indicated by a dotted arrow. ",
+      "action":" ...",
+      "description":"",
+      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+   },
+   {
+      "id":1,
+      "name":"Lanes merge (GS401, TGS403, GS404, TGS406) ",
+      "where":" ...  ",
+      "purpose":"To guide you by means of a diagram, which indicates that, a lane merges with  another lane or that roadways join. ",
+      "action":" ...",
+      "description":"",
+      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+   },
+   {
+      "id":1,
+      "name":"Lanes converge (GS451, GS454) ",
+      "where":" ...  ",
+      "purpose":"To guide drivers by means of a diagram, which indicates that, a curved multi-lane  carriageway converges with a straight multi-lane carriageway from the left or right,  without a decrease in lanes. ",
+      "action":" ...",
+      "description":"",
+      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+   },
+   {
+      "id":1,
+      "name":"Arrestor bed (GS501, GS502, GS503, GS504) ",
+      "where":"On descents. ",
+      "purpose":"To indicate that there is an arrestor bed ahead and to  indicate the entrance to such an arrestor bed. ",
+      "action":"Should the brakes of your vehicle fail, drive straight into the  arrestor bed.  ",
+      "description":"",
+      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+   },
+   {
+      "id":1,
+      "name":"Engage lower gear (GS505, TGS505) ",
+      "where":"On the left-hand side of the road. ",
+      "purpose":"To warn that, because of a steep descent, it is necessary to engage a lower gear. ",
+      "action":"If you are driving a heavy motor vehicle, engage a lower gear so that the vehicle  will move down the descent more slowly.  ∙ If the lower gear does not have the desired effect, engage an even lower gear  to keep the speed constant and protect the brakes against overheating.",
+      "description":"",
+      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+   },
+   {
+      "id":1,
+      "name":"Overhead arrestor bed exit (GS601, GS602) ",
+      "where":"In any lane of any road that leads to an arrestor bed. ",
+      "purpose":" o inform you by means of a diagram that there is an entrance to an  arrestor bed ahead.  ",
+      "action":"Do not turn in at such a road unless you are going to a destination in the  road that ends. ",
+      "description":"",
+      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+   },
+   {
+      "id":1,
+      "name":"Overhead lane use control by regulation (GS603, TGS604, GS605) ",
+      "where":"In any lane of any road. ",
+      "purpose":"To inform you by means of a diagram that the lane below the sign is  subject to a compulsory requirement indicated by a \u2018command\u2019 or \u2018prohibition\u2019 regulatory sign. ",
+      "action":"Do not turn in at such a road unless you are going to a destination in the  road that ends.",
+      "description":"",
+      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+   }
+]
+>>>>>>> Stashed changes
