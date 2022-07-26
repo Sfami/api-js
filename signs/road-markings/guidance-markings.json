@@ -1,7 +1,7 @@
 [
     {
        "purpose":" To show that you are using a part of the road with traffic in the same  direction. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/lane_lines.png",
        "name":" Lane lines (GM1) ",
        "action":" Drive in the centre of your demarcated lane. ",
        "description":"",
@@ -10,7 +10,7 @@
     },
     {
        "purpose":" To guide you to follow the correct route in the intersection. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/guide_lines.png",
        "name":" Guide lines (GM2) ",
        "action":" Turn according to the markings. ",
        "description":"",
@@ -19,7 +19,7 @@
     },
     {
        "purpose":" To indicate an increase in the number of lanes ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/bifurcation_lines.png",
        "name":" Bifurcation arrows (GM3) ",
        "action":" Ensure that you do not straddle any lane markings. ",
        "description":"",
@@ -28,7 +28,7 @@
     },
     {
        "purpose":" To indicate the direction you may drive in a lane or on a road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/information_arrows.png",
        "name":" Information arrows (GM4.1, GM4.2) ",
        "action":" The driver must be guided by the arrows and never, unless  otherwise requested by a traffic officer, drive in the direction  opposite to what the arrows show.",
        "description":"",
@@ -37,7 +37,7 @@
     },
     {
        "purpose":" To indicate a section of the road to be used by cyclists to cross the road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/bicycle_crossing_lines.png",
        "name":" Bicycle crossing lines (GM5) ",
        "action":" Look out for cyclists crossing or who want to cross the road.",
        "description":"",
@@ -46,7 +46,7 @@
     },
     {
        "purpose":" As additional markings with standard signs and markings to inform you that an area is reserved for  a specific group or that a road is leading to a specific destination. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road_markings_symbols.png.png",
        "name":" Road marking symbols ( GM6.1, GM6.2, GM6.3) ",
        "action":" Do not use a road or a marked portion of a road if you are not part of the group identified by the  marking. ",
        "description":"",
@@ -55,7 +55,7 @@
     },
     {
        "purpose":" To supply you with additional information. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/word_markings.png",
        "name":" Word markings (GM7) ",
        "action":" Read the message on the road and then concentrate on the possible danger indicated by the  message.",
        "description":"",
