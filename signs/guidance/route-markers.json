@@ -1,7 +1,7 @@
 [
     {
        "purpose":" To point out the direction you must follow to reach the more important route. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Advance trailblazer (GE2, TGE2) ",
        "action":" Follow the traffic signs if you want to join the more important route and look out for the next trailblazer. ",
        "description":"",
@@ -10,7 +10,7 @@
     },
     {
        "purpose":" To point out the direction of a transport terminus from a route that would otherwise have taken you past a bus terminus, harbour, airport or helipad. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Advance transport trailblazer (GE9) ",
        "action":" Follow the traffic signs if you want to go to the terminus and look out for the transport trailblazer that follows.",
        "description":"",
@@ -19,7 +19,7 @@
     },
     {
        "purpose":" To point out the direction to a transport terminus from a road that  would otherwise have taken you past the terminus. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Transport trail blazer (GE10) ",
        "action":" Join the other route if you want to go to the terminus. ",
        "description":"",
@@ -28,7 +28,7 @@
     },
     {
        "purpose":" To indicate that a route of equal or higher status can be entered from  the road on which you are travelling. This new route consists of a pair  of one-way roadways. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Map-type advance trail blazer (GE11) ",
        "action":" You need to know before hand in which direction you want to travel,  e.g. North(N) or South(S). ",
        "description":"",
@@ -37,7 +37,7 @@
     },
     {
        "purpose":" To confirm the number and status of the route on which you are  travelling. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Confirmation route marker ",
        "action":" Make sure that the route you are travelling on is the route that  you want to take to reach your destination. ",
        "description":"",
@@ -46,7 +46,7 @@
     },
     {
        "purpose":" To indicate to drivers the route number of the class-B route. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Direction route marker (GE12.1, TGE12.1) and (GE12.2, TGE12.2) ",
        "action":" Slow down for the intersection and make sure that you take the  correct route. ",
        "description":"",
@@ -55,7 +55,7 @@
     },
     {
        "purpose":" To inform in time that you are approaching a class-B route. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Advance direction route marker (GE12.3, GE12.5) (TGE12.4, TGE12.5) ",
        "action":" Make sure which route you want to follow, slow down for the  intersection and take the correct route. ",
        "description":"",
@@ -64,7 +64,7 @@
     },
     {
        "purpose":" To inform in advance that a particular numbered route changes  direction at the intersection ahead or that the cross-street at the  intersection ahead is a numbered class-B route. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Overhead route marker (GE12.6, GE12.7, GE12.8) ",
        "action":" Make sure which route you want to follow, slow down  for the intersection and take the correct route. ",
        "description":"",
@@ -73,7 +73,7 @@
     },
     {
        "purpose":" To point out that a route other than the toll route can be followed. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Alternative route marker (GE16, GE16.2, GE16.3, GE16.5) ",
        "action":" Decide in advance whether you want to take the toll or alternative  route. If you want to take the alternative route, slow down for the  intersection. Remember that the alternative route is usually not of  the same high standard as the toll route.",
        "description":"",
@@ -82,7 +82,7 @@
     },
     {
        "purpose":" To indicate to cyclists and other road users that there is a  special route for cyclists only. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Bicycle route marker (GE17, GE17.1, GE17.3, GE17.5) ",
        "action":" Do not use this route and look out for cyclists that could suddenly change direction to follow the cycle route. ",
        "description":"",
@@ -91,7 +91,7 @@
     },
     {
        "purpose":" To indicate the - ∙ numbers of the routes leading from an intersection and ∙ destinations that can be reached from this intersection. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Stack-type advance direction (GD1, TGD1) ",
        "action":" Make sure which route you want to follow, slow down for the  intersection and take the correct route. ",
        "description":"",
@@ -100,7 +100,7 @@
     },
     {
        "purpose":" To indicate the - ∙ numbers of the routes leading from this intersection and ∙ destinations that can be reached from this intersection. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Stack-type direction (GD1.112, TGD1.112) ",
        "action":" Slow down and make sure you take the correct route. Also look out for  other traffic at the intersection that might not yield. ",
        "description":"",
@@ -109,7 +109,7 @@
     },
     {
        "purpose":" To confirm the route to a destination and the distance indicated in  kilometres to such destinations.  ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Confirmation (GD3, TGD3) ",
        "action":" Note the destination and in particular note the distance to the  destination so that you can plan your trip to fill up with petrol or rest. ",
        "description":"",
@@ -118,7 +118,7 @@
     },
     {
        "purpose":" To guide you to small locations or to destinations on less travelled routes. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Fingerboard (GD4, TGD4) ",
        "action":" Slow down and look out for traffic that might not yield at the intersection. ",
        "description":"",
@@ -127,7 +127,7 @@
     },
     {
        "purpose":" To give advance guidance regarding the shape of the intersection ahead, the  numbers and destinations of the routes leaving the intersection. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Map-type advance direction (GD5, GD7, GD9, TGD9) ",
        "action":" Make use of this advance direction sign to decide where you want to go before  reaching actual intersection. ",
        "description":"",
@@ -136,7 +136,7 @@
     },
     {
        "purpose":" To inform in advance which lane leads to a specific destination. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":"Overhead direction (GD12, GD13, GD15/16/17) ",
        "action":"Move in good time to the correct lane that leads to your destination  or route.",
        "description":"",

@@ -1,7 +1,7 @@
 [
     {
        "purpose":" To warn that there is a railway crossing ahead. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Railway crossing ahead (WM1) ",
        "action":" Slow down and if necessary, stop before the crossing. ",
        "description":"",
@@ -10,7 +10,7 @@
     },
     {
        "purpose":" To warn you that there is a break (intersection or off ramp) in the continuing  part of the roadway and to inform you that if you are in a lane that has a  line on one side, that lane will soon turn off from the road which you are  now travelling. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Continuity lines (WM2) ",
        "action":" Yield to any traffic that wants to change lanes. The continuity lines will soon  change to a channelizing line or painted island, which will make it illegal to  change direction. Check your blind spot to make sure there are no other  vehicles that might cut in front of you. ",
        "description":"",
@@ -19,7 +19,7 @@
     },
     {
        "purpose":" To warn that vehicles on the other side of the road marking are moving in  the opposite direction. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Dividing lines (WM3) ",
        "action":" Be on the look out for approaching vehicles which may move over onto  your side of the road. ",
        "description":"",
@@ -28,7 +28,7 @@
     },
     {
        "purpose":" To warn drivers that the lane indicated by this marking can be used for  traffic from the opposite direction at various times of day or night. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Reversible lane lines (WM4) ",
        "action":" Be on the look out for approaching vehicles.",
        "description":"",
@@ -37,7 +37,7 @@
     },
     {
        "purpose":" To warn that there is a yield sign ahead. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Yield control ahead (WM5) ",
        "action":" Slow down if other traffic is approaching the intersection and stop if  necessary. ",
        "description":"",
@@ -46,7 +46,7 @@
     },
     {
        "purpose":" To warn that the traffic lanes are reduced from the left (WM6.1) or  right (WM6.3) or from both (WM6.2) sides. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Lane reduction arrows (WM6.1, WM6.2, WM6.3) ",
        "action":" Change lanes in time if the lane you are travelling in ends. Check  both the blind spots where two lanes end from both sides to make  sure there is no other vehicle that is also changing lanes. ",
        "description":"",
@@ -55,7 +55,7 @@
     },
     {
        "purpose":" To warn in time that you will be obliged to follow a certain direction  at the first intersection. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Mandatory direction arrow ahead (WM7) ",
        "action":" Choose the correct lane in time to drive in the direction that you want to go. ",
        "description":"",
@@ -64,7 +64,7 @@
     },
     {
        "purpose":" To warn you that there is a no-overtaking line or no-crossing line  ahead. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" No overtaking or no crossing line ahead (WM8) ",
        "action":" Ensure not to cross the prohibition line that follows the sign.  If you are on the right-hand side of the road move back to the left hand lane as soon as possible before the prohibition line starts. ",
        "description":"",
@@ -73,7 +73,7 @@
     },
     {
        "purpose":" To indicate where especially drivers of heavy vehicles who become  aware that a vehicle\u2019s brakes became defective, can drive such a  vehicle of the road and it will be stopped by the gravel section  ahead. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Arrestor bed ahead (WM9) ",
        "action":" Only drive into this arrestor bed when your brakes fail. ",
        "description":"",
@@ -82,7 +82,7 @@
     },
     {
        "purpose":" To warn that there is a speed hump in the road. ",
-       "imageUrl":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
        "name":" Speed hump (WM10) ",
        "action":" Slow down and release your brake before driving over the speed  hump.",
        "description":"",
