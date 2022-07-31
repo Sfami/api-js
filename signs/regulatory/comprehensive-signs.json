@@ -6,7 +6,7 @@
         "purpose": "To indicate that a freeway begins at the sign and that the rules that apply to freeways are effective from here.",
         "action": "Follow all the rules that apply to freeways.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/comprehensive-signs/stop.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "purpose": "To prevent certain heavy vehicles from using a road or part of a road.",
         "action": "If the GVM or GCM of your vehicle exceeds the mass indicated in tons, use another road or part of the road, which is not indicated by this sign.\n If your vehicle’s GVM or GCM is less than the indicated mass in tons, you may use this road.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/comprehensive-signs/stop.png"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "purpose": "To prevent certain heavy vehicles from using a road or part of a road.",
         "action": "If the axle mass of any of your vehicle’s axles exceeds the indicated mass in tons, use another road or part of the road not indicated by this sign.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/comprehensive-signs/urban_area.png"
     }
 
 ]

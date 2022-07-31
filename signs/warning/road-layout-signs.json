@@ -6,7 +6,7 @@
         "purpose": "To warn that a hazard in the form of a crossroad is ahead",
         "action": "If your vehicle (or load) is higher than the indicated height in metres, another road not indicated by this sign, must be used.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "purpose": "To warn that you are approaching an intersection where you have right of way. (The thicker leg of the cross on the signs indicates which road has priority.)",
         "action": "Approach cautiously, look carefully and be able to stop if cross-traffic does not yield.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "purpose": "To warn that you are approaching an intersection where you have to yield to cross-traffic. (The thicker leg of the cross on the sign indicates which road has priority.)",
         "action":"Approach cautiously, and yield to traffic approaching from left or right.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "purpose": "To warn that you are approaching an intersection where you have to turn sharp to the right or left.",
         "action": "Look out for cross-traffic. Slow down and be prepared to stop and go round the corner at a safe speed.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "purpose": "To warn that you are approaching an intersection where another road meet yours at an angle.",
         "action": "Look out for cross-traffic. Slow down and be prepared to stop.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "purpose": "To warn that traffic may be approaching you from the left or right-hand side.",
         "action": "Slow down so that you will be able to stop, or go around the corner or pass the intersection at a safe speed.\n Look out for other traffic at the intersection that might not yield.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "purpose": "To warn that your road is first joined by another road from the left hand side first and within a short distance by another from the right hand side (W110,TW110) or from the right first and then from the left (W109,TW109).",
         "action": "Slow down and be prepared to stop or turn at a safe speed. Look out for traffic at the intersection that might not yield.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "purpose": "To warn that your road is first joined by another road from the left hand side first and within a short distance by another from the right hand side (W110,TW110) or from the right first and then from the left (W109,TW109).",
         "action": "Slow down and be prepared to stop or turn at a safe speed. Look out for traffic at the intersection that might not yield.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "purpose": "To warn that the road forks into two roads.",
         "action": "Decide well in time which road to take. Look out for approaching traffic whose path you will cross when taking the right hand road",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "purpose": "To warn that the one-way roadway is ending soon and that approaching vehicles will use the same carriageway as you.",
         "action": "Position your vehicle on the road where it will not endanger approaching traffic. It may be necessary to change lanes.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     },
     {
         "id": 11,
@@ -96,6 +96,6 @@
         "purpose": "To warn that the single carriageway is ending and that you will soon enter a one-way road.",
         "action": "You will be able to overtake more safely after entering the one way road. This sign does not indicate a freeway and intersections can still be found on such a road.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/road-layout-signs/stop.png"
     }
 ]

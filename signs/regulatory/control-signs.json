@@ -6,7 +6,7 @@
         "purpose": "To bring traffic to a stop.",
         "action": "Bring your vehicle to a stop behind the stop line. If there is no stop line, the front of the vehicle must come to a stand still in line with the stop sign. At a three or four-way stop you may not move off before all the other vehicles which stopped before you have moved off. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/stop.png"
     }, 
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop_yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/stop_yield.png"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "purpose": "To indicate that you must yield to other traffic.",
         "action": "If other traffic is approaching the intersection, reduce speed and, if necessary, stop.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/yield.png"
     }
     ,
     {
@@ -34,7 +34,7 @@
         "purpose": "To indicate that no traffic may proceed past the sign on the road, carriageway or lane.",
         "action": "Do not enter the carriageway where this sign is displayed.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/yield.png"
     },
 
     {
@@ -44,7 +44,7 @@
         "purpose":"To give priority to pedestrians but limit other traffic to emergency vehicles, vehicles loading and off loading goods and maintenance vehicles.",
         "action":"When driving any of the above-mentioned vehicles, drive carefully in the area at a maximum speed of 15 km/h.",
         "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
-        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/yield.png"
     }, 
     {
         "id": 6,
@@ -53,7 +53,7 @@
         "purpose":"To bring traffic from all three directions to a stop.",
         "action":"Bring vehicles to a stop behind the line. When there is no stop line, the front of the vehicle must be in line with the stop sign. You may not drive off before all the other vehicles which stopped before you have moved off in a three-way or four-way stop. Continue only when it is safe.",
         "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
-        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/yield.png"
     },
     {
         "id": 7,
@@ -62,7 +62,7 @@
         "purpose":"To bring traffic from all four directions to a stop.",
         "action":"Bring your vehicle to a standstill behind the stop line. If there is no stop line, the front of your vehicle must be brought to a stop in line with the stop sign. Proceed only when it is safe. If more than one vehicle stops at such an intersection, the vehicle, which stopped first, should move off first.",
         "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
-        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/yield.png"
     },
     {
         "id": 8,
@@ -71,7 +71,7 @@
         "purpose":"To indicate that there is a one-way carriageway to the left, right, or ahead.",
         "action":"Proceed in the direction of the arrow only if you want to use that specific carriageway. ",
         "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
-        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/yield.png"
     },
     {
         "id": 9,
@@ -80,7 +80,7 @@
         "purpose": "These are two different signs, which are mounted back to back. It indicates whether you may proceed or must stop.",
         "action": "Stop if the STOP sign is displayed and move off or proceed with caution if safe when the GO sign is displayed.",
         "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
-        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/yield.png"
     },
     {
         "id": 10,
@@ -89,7 +89,7 @@
         "purpose": "To compel you to give priority to pedestrians crossing the road or wanting to cross",
         "action":"Look out for pedestrians crossing the road or near the road and be ready to stop.",
         "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
-        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/yield.png"
     },
     {
         "id": 11,
@@ -98,7 +98,7 @@
         "purpose": "To warn you that there is a traffic circle ahead where they must expect to yield.",
         "action":"Look out for other vehicles and yield to vehicles already in the circle or that will cross the yield line at their entrance to the circle before you will cross yours. Stop if necessary.\n The driver who reaches his/her yield line first may proceed first.\n At a mini circle you must, as at a normal intersection, signal in time in which direction you want to turn.",
         "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
-        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/yield.png"
     },
     {
         "id": 12,
@@ -107,7 +107,7 @@
         "purpose": "To indicate that there is a single carriageway ahead for use by by vehicle from both directions.",
         "action":"Look out for other vehicles and yield to vehicles already in the carriageway.",
         "description": "Priority must be given to pedestrians crossing or wanting to cross the road. When loading or off loading goods, only do so in areas marked by road traffic signs. No other vehicles are permitted in such an area.",
-        "image": "https://sfamisoftwares.com/api-js/images/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/yield.png"
     }    
 ]
 

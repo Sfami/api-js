@@ -1,7 +1,7 @@
 [
     {
        "purpose":" To warn that there are isolated and particularly new traffic lights or  traffic lights near an isolated traffic light at a pedestrian crossing ahead.  ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Traffic signals ahead. (W301, TW301) ",
        "action":" Slow down immediately and be ready to stop if the light changes from  green to amber. Make sure there are no pedestrians or cross-traffic who  might not obey the signals. ",
        "description":"",
@@ -10,7 +10,7 @@
     },
     {
        "purpose":" To warn that there is a stop sign ahead, which cannot be seen in time. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Traffic control \u201cSTOP\u201d ahead (W302, TW302) ",
        "action":" Slow down in good time and be ready to stop as required for sign R1.1.",
        "description":"",
@@ -19,7 +19,7 @@
     },
     {
        "purpose":" To warn that there is a yield sign ahead, which you may not be able to see  in time without a warning. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Traffic control \u201cYIELD\u201d ahead (W303, TW303) ",
        "action":" Slow down and be ready to stop if necessary. ",
        "description":"",
@@ -28,7 +28,7 @@
     },
     {
        "purpose":" Indicate that there is a traffic officer ahead controlling the traffic. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Traffic control ahead (TW304) ",
        "action":" Slow down and be ready to stop the vehicle if the officer instructs you to  do so. ",
        "description":"",
@@ -37,7 +37,7 @@
     },
     {
        "purpose":" Indicate that there is a scholar patrol operating ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Scholar patrol ahead (TW305) ",
        "action":" Slow down and look out for a stop sign displayed by the scholar patrol.  Look out at all times for children whomay suddenly cross the road. ",
        "description":"",
@@ -46,7 +46,7 @@
     },
     {
        "purpose":" To warn that there is a demarcated pedestrian crossing ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Pedestrian crossing (W306, TW306) ",
        "action":" Slow down and stop if a pedestrian is waiting at the crossing.  ∙ Do not overtake other vehicles that have stopped at the pedestrian  crossing. ",
        "description":"",
@@ -55,7 +55,7 @@
     },
     {
        "purpose":" To warn that pedestrians may be crossing the road for the next 2 km. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Pedestrians (W307, TW307) ",
        "action":" Slow down and look out for pedestrians who may be crossing the road. ",
        "description":"",
@@ -64,7 +64,7 @@
     },
     {
        "purpose":" To warn that children might be crossing the road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Children (W308, TW308) ",
        "action":" Slow down immediately and look out for children who could be crossing  the road unexpectedly or even be playing the road. ",
        "description":"",
@@ -73,7 +73,7 @@
     },
     {
        "purpose":" To warn the driver that there can be cyclists ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Pedal cyclists (W309, TW309) ",
        "action":" Slow down and be on the look out for cyclists using or crossing the road  for the next 2 km. ",
        "description":"",
@@ -82,7 +82,7 @@
     },
     {
        "purpose":" To warn that there may be free ranging animals such as cattle, horses or  sheep on the road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Domestic animals (W310, TW310, W311, TW311, W312, TW312) ",
        "action":" Slow down and be on the look out for the next 2 km for animals.",
        "description":"",
@@ -91,7 +91,7 @@
     },
     {
        "purpose":" To warn that there may be wild animals on the road or crossing the road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Wild animals (W313, TW313) ",
        "action":" Slow down and be on the look out for the next 2 km for wild animals. ",
        "description":"",
@@ -100,7 +100,7 @@
     },
     {
        "purpose":" To warn that there is a gate or boom across the road ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Gate (W314, TW314) ",
        "action":" Slow down and be prepared to stop should the gates be closing or are  closed. ",
        "description":"",
@@ -109,7 +109,7 @@
     },
     {
        "purpose":" To warn that there is a motor gate to the left or right or in the middle of  the road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Motor gate (W315, W316, W317) ",
        "action":" Slow down and make sure there is no oncoming traffic about to cross  the same gate. ",
        "description":"",
@@ -118,7 +118,7 @@
     },
     {
        "purpose":" To warn that there is a railway crossing ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Railway crossing (W318, TW318) ",
        "action":" Slow down and look to the right and left for oncoming trains. If a train is  approaching stop in time, but not within the railway crossing reserve. ",
        "description":"",
@@ -127,7 +127,7 @@
     },
     {
        "purpose":" To warn that there is a tunnel ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Tunnel (W319) ",
        "action":" Slow down and switch your car\u2019s headlights on in the dim position. ",
        "description":"",
@@ -136,7 +136,7 @@
     },
     {
        "purpose":" To warn that there is a structure ahead of which the height is indicated  on the road traffic sign. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Height restricted (W320, TW320) ",
        "action":" If your vehicle is higher than the bridge or structure as indicated by this  sign, find an alternative route ",
        "description":"",
@@ -145,7 +145,7 @@
     },
     {
        "purpose":" To warn that curves in the road or other structures on the side of the  road make it impossible for vehicles longer than the length indicated on  this road sign. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Length restricted (W321, TW321) ",
        "action":" Find an alternative route if your vehicle is longer that the length  indicated in metres on this sign. ",
        "description":"",
@@ -154,7 +154,7 @@
     },
     {
        "purpose":" To warn that the road will climb or descend steeply. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Steep ascend and steep descend (W322, TW322, W323) TW323) ",
        "action":" Be aware of slow-moving traffic, particularly in mountainous areas with  sharp curves. Allow for a longer stopping distance on a descent and  especially when your vehicle is heavily laden.",
        "description":"",
@@ -163,7 +163,7 @@
     },
     {
        "purpose":" To warn that heavy vehicles travel slowly down a descent. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Slow-moving heavy vehicles (W324, TW324) ",
        "action":" Slow down and, particularly in mountainous areas with sharp curves, be  able to stop within the distance you can see. Remember to allow for a  longer stopping distance on a descent especially when your vehicle is  heavily laden. ",
        "description":"",
@@ -172,7 +172,7 @@
     },
     {
        "purpose":" To warn that the tarred road you are driving on will end soon and will  have a gravel surface ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Gravel road begins (W325, TW325) ",
        "action":" Slow down and look out for a ditches or potholes at the joint between the  gravel and the tarred surface. Steering will be lighter on the gravel,  vehicles will tend to skid easier and will need a longer stopping distance. ",
        "description":"",
@@ -181,7 +181,7 @@
     },
     {
        "purpose":" To warn that the road narrows when crossing a bridge. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Narrow bridge (W326, TW326) ",
        "action":" Slow down and, if there is oncoming traffic, try not to cross the bridge at  the same time as an approaching vehicle. ",
        "description":"",
@@ -190,7 +190,7 @@
     },
     {
        "purpose":" To warn that the carriageway ahead narrows to a width that will make it  possible for only one vehicle at a time to pass. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" One vehicle width structure (W327, TW327) ",
        "action":" Slow down if there is oncoming traffic, stop at least 6m from the structure  and yield to the other vehicle. ",
        "description":"",
@@ -199,7 +199,7 @@
     },
     {
        "purpose":" To warn that the road ahead narrows from both sides. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Road narrows from both sides (W328, TW328) ",
        "action":" Slow down and adjust your position on the carriageway since oncoming  vehicles will pass close to you. ",
        "description":"",
@@ -208,7 +208,7 @@
     },
     {
        "purpose":" To warn that the road ahead narrows from the left (W330, TW330) or  from the right-hand (W329, TW329) side. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Road narrows from one side only (W329, TW329, W330, TW330) ",
        "action":" Slow down and adjust your position on the roadway. ",
        "description":"",
@@ -217,7 +217,7 @@
     },
     {
        "purpose":" To warn that there is a depression or a ridge in the road, or that the  road in general is uneven and potholed. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Uneven roadway (W331, TW331) ",
        "action":" Slow down to avoid potholes without endangering other traffic.",
        "description":"",
@@ -226,7 +226,7 @@
     },
     {
        "purpose":" To warn that there are speed humps on the carriageway ahead which  require a reduction of speed. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Speed humps (W332, TW332) ",
        "action":" Slow down so that you can drive over the speed humps without damaging  your vehicle or losing control. ",
        "description":"",
@@ -235,7 +235,7 @@
     },
     {
        "purpose":" To warn about unusually slippery conditions on the road ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Slippery road (W333, TW333) ",
        "action":" Slow down since any sudden braking or harsh steering could cause your  vehicle to start skidding sooner than usual for the next 2 km. ",
        "description":"",
@@ -244,7 +244,7 @@
     },
     {
        "purpose":" To warn that rocks could fall on the carriageway from the left (W334, TW334) or from the right-hand side (W335, TW335). ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Falling rocks (W334, TW334, W335, TW335) ",
        "action":" Slow down to be able to stop within their sight distance if a fall occurs or  has occurred. Such falls occur more often when it rains and therefore  reduce your speed further since your stopping distance during rainy  weather will be longer. ",
        "description":"",
@@ -253,7 +253,7 @@
     },
     {
        "purpose":" To warn that there are temporary construction or maintenance works  ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Road works (TW336) ",
        "action":" Slow down and look out for other temporary road traffic signs, people  regulating the traffic or who might be crossing the road. ",
        "description":"",
@@ -262,7 +262,7 @@
     },
     {
        "purpose":" To warn that a grader is working on the carriageway ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Grader working (TW337) ",
        "action":" Slow down and drive slowly past the grader. The full width of the road  may not be available and there could be sand or gravel on the  carriageway that could affect the handling of their vehicles. ",
        "description":"",
@@ -271,7 +271,7 @@
     },
     {
        "purpose":" To warn that there are loose stones or gravel on the road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Loose stones (TW338) ",
        "action":" Slow down and be aware that oncoming vehicles could throw up stones  that could cause damage. Your vehicle\u2019s braking and turning capacity  could also be affected negatively. ",
        "description":"",
@@ -280,7 +280,7 @@
     },
     {
        "purpose":" To warn that there is danger of some kind ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" General warning (W339, TW339) ",
        "action":" Slow down and look out for anything on or next to the carriageway that  could cause you to change speed or direction.",
        "description":"",
@@ -289,7 +289,7 @@
     },
     {
        "purpose":" To warn that the level of the right-hand side of the carriageway is higher  than the left-hand side (TW340), or the left-hand side of the carriageway is  higher than the right-hand side (TW341). ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Surface step (TW340, TW341) ",
        "action":" Slow down and be aware that your vehicle may tend to the left or right if  you straddle the step between the higher and lower level. Because of the  ridge vehicles may also be slow to return to the higher level and could  react suddenly if the wheel mounts the ridge. Do not make any sudden  jerking steering motions, because it could cause you to lose control  completely. ",
        "description":"",
@@ -298,7 +298,7 @@
     },
     {
        "purpose":" To warn that the material of the road shoulder may be softer than  reasonably expected and could be dangerous for anyone who wants to  move of the road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Soft shoulder (TW342) ",
        "action":" Do not drive or stop on the shoulder. If this is unavoidable, for example to  avoid a collision, slow down as much as possible because the vehicle will  pull in the direction of the shoulder when you move off the road. ",
        "description":"",
@@ -307,7 +307,7 @@
     },
     {
        "purpose":" To warn that traffic ahead is being controlled temporarily by a \u201cStop/Ry Go\u201d sign. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Stop/Ry-Go control ahead (TW343) ",
        "action":" Slow down and get ready to stop. ",
        "description":"",
@@ -316,7 +316,7 @@
     },
     {
        "purpose":" To warn that heavy vehicles regularly cross or join the road from the left  or right. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Truck crossing (W344, TW344) and (W345)(TW345) ",
        "action":" Look out for trucks that could force you to slow down. Slow down and  look out for trucks that want to cross or join the road. Also look out for  anything spilt or dropped on the road by the trucks like gravel, sand or  water that could affect the handling of your vehicle. ",
        "description":"",
@@ -325,7 +325,7 @@
     },
     {
        "purpose":" To warn of a hazard ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Emergency flashing light (W346, TW346) ",
        "action":" Slow down and look out for other road traffic signs that indicate a  specific hazard. ",
        "description":"",
@@ -334,7 +334,7 @@
     },
     {
        "purpose":" To warn about a temporary stop sign, a collision scene, roadblock or  similar scene where police are on duty. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Temporary police flashing light (TW347) ",
        "action":" Be ready to stop at the stop sign that follows after the flashing blue light  or on demand of a police officer. ",
        "description":"",
@@ -343,7 +343,7 @@
     },
     {
        "purpose":" To warn that the road leads to a jetty edge or riverbank. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Jetty edge or river bank (W348) ",
        "action":" Slow down and look out for the end of the road so that you can stop in  time. ",
        "description":"",
@@ -352,7 +352,7 @@
     },
     {
        "purpose":" To warn about strong crosswinds that could force your vehicles off course. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Crosswinds (W349, TW349) ",
        "action":" Determine if a wind is blowing and from which direction. Any shielding of the wind by a truck, bridge or excavation will affect your vehicle and you  should adjust the steering in time. ",
        "description":"",
@@ -361,7 +361,7 @@
     },
     {
        "purpose":" To warn the driver that there is a drift ahead and that the road could be  flooded. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Drift (W350, TW350) ",
        "action":" Slow down and if it is not known how deep the water is, stop. If passable, drive through the water slowly. ",
        "description":"",
@@ -370,7 +370,7 @@
     },
     {
        "purpose":" To warn of the possibility of low-flying aircraft and sudden aircraft noise  near the road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Low-flying aircraft (W351) ",
        "action":" Do not get a frightened and do not brake suddenly. ",
        "description":"",
@@ -379,7 +379,7 @@
     },
     {
        "purpose":" To warn that tractors or other slow-moving agricultural vehicles could  cross or enter the road ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Agricultural vehicles (W352) ",
        "action":" Look out for agricultural vehicles and slow down of they want to cross the  road or are crossing it. ",
        "description":"",
@@ -388,7 +388,7 @@
     },
     {
        "purpose":" To warn the driver that - ∙ the road ahead may be obstructed, ∙ there could be pedestrians,  ∙ rescue teams and police or traffic officers controlling the traffic at the  scene, ∙ there could be wreckage, injured persons, animals or broken glass on  the road surface. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Collision (TW353) ",
        "action":" Slow down immediately, look out for someone controlling the traffic  and be ready to stop. If there is enough or professional help on the  scene, do not stop out of curiosity. Do not look at the collision scene or  wreckage, concentrate on the route to be followed without driving over  or into anything. ",
        "description":"",
@@ -397,7 +397,7 @@
     },
     {
        "purpose":" To warn that there is a possibility reduced visibility on the road ahead  that might cause a hazard to road users. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Reduced visibility (W354, TW354)  ",
        "action":" Look out for Fog or smoke and slow down. Be on the look out for other  slow moving vehicles. ",
        "description":"",
@@ -406,7 +406,7 @@
     },
     {
        "purpose":" To warn that there is a possibility of congested traffic. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Congestion (W355, TW355)  ",
        "action":" Look out for slow moving vehicle and adapt speed accordingly.",
        "description":"",
@@ -415,7 +415,7 @@
     },
     {
        "purpose":" To warn that there is a possibility of horses and riders being present on the  road ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Horses and riders(W356, TW356)  ",
        "action":" Look out for horses and riders ahead and be prepared to slow down or  stop. ",
        "description":"",
@@ -424,7 +424,7 @@
     },
     {
        "purpose":" To warn that there is a possibility of elephants being present on the road  ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Elephant (W357)  ",
        "action":" Look out for elephants ahead and be prepared to slow down or stop. ",
        "description":"",
@@ -433,7 +433,7 @@
     },
     {
        "purpose":" To warn that there is a possibility of warthogs being present on the road  ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Warthog (W358)  ",
        "action":" Look out for warthogs ahead and be prepared to slow down or stop. ",
        "description":"",
@@ -442,7 +442,7 @@
     },
     {
        "purpose":" To warn that there is a possibility of hippos being present on the road  ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Hippo (W359)  ",
        "action":" Look out for hippos ahead and be prepared to slow down or stop. ",
        "description":"",
@@ -451,7 +451,7 @@
     },
     {
        "purpose":" To warn that there is overall width of vehicles restriction as indicated in  metres on the road ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Width (W360, TW360)  ",
        "action":" Do not continue of your vehicle is wider than indicated on the sign. ",
        "description":"",
@@ -460,7 +460,7 @@
     },
     {
        "purpose":" To warn that there is a possibility of electrical shock from the overhead  electrical power cables on the road ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Electrical shock (W361, TW361)  ",
        "action":" Look out for electrical cables on the road way ahead. ",
        "description":"",
@@ -469,7 +469,7 @@
     },
     {
        "purpose":" To warn that the gravel road you are travelling on will end ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Gravel road ends(W363, TW363)  ",
        "action":" Look out for an asphalt, tar or concrete road ahead. ",
        "description":"",
@@ -478,7 +478,7 @@
     },
     {
        "purpose":" To warn that there is an obstruction or temporary obstruction next to  the road and that the road alignment to the left or right hand side is  altered. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Danger plates (W401, TW401) ∙ Delineator plates (W402, TW402) ",
        "action":" Do not pass to the right of W401 or TW401 and to the left of W402 or TW402",
        "description":"",
@@ -487,7 +487,7 @@
     },
     {
        "purpose":" To that there is a railway crossing with one (W403) or more tracks (W404) ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Railway crossing (W403, W404) ",
        "action":" Slow down and if a train is approaching the crossing, stop. If there is no  stop line or sign, the driver should stop no closer than 3m from the nearest track, and not on the track or in the railway reserve. ",
        "description":"",
@@ -496,7 +496,7 @@
     },
     {
        "purpose":" To warn that the road ahead curves suddenly ∙ to the left (W406, W408, TW406, TW408) or  ∙ to the right (W405, W407, TW405, TW407). ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Sharp curve chevron  ∙ Left (W405, TW405),(W407)(TW407) ∙ Right (W406)(TW406, W408, TW408) ",
        "action":" Slow down to take the curve at a safe speed or to be able to stop  within the distance you can see. ",
        "description":"",
@@ -505,7 +505,7 @@
     },
     {
        "purpose":" To warn that the road ahead does not carry on straight, but merges with another road. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" T-junction chevron (W409, TW409) ",
        "action":" Slow down to turn left or right or to stop. ",
        "description":"",
@@ -514,7 +514,7 @@
     },
     {
        "purpose":" To warn that the road does not continue beyond the sign and that a turn  either to the left or to the right must be made. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Dead-end (W410), Road closed chevron (TW410) ",
        "action":" Decide which direction to go and slow down. ",
        "description":"",
@@ -523,7 +523,7 @@
     },
     {
        "purpose":" To warn that part of the road is temporarily closed to traffic. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Temporary barricade (W411) ",
        "action":" Slow down and do not attempt to drive past the sign. Look out for a additional regulatory signs that will indicate an alternative route. ",
        "description":"",
@@ -532,7 +532,7 @@
     },
     {
        "purpose":" To warn that the robot ahead or to which the sign is attached is out  of order. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/warning/symbolic-signs/stop.png",
        "name":" Traffic signals out of order (TW412) ",
        "action":" Slow down, yield to other traffic and be ready to stop if traffic intensity and volume require it. Look out for a traffic officer or stop sign that might be controlling the traffic.",
        "description":"",

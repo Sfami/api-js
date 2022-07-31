@@ -6,7 +6,7 @@
       "purpose":"To guide you by means of a diagram which indicates that one of the lanes of a  carriageway comes to an end. ",
       "action":" ...",
       "description":"",
-      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+      "image":"https://sfamisoftwares.com/api-js/images/guidance/diagrammatic-signs/stop.png"
    },
    {
       "id":1,
@@ -15,7 +15,7 @@
       "purpose":"To inform you by means of a diagram that the number of lanes of the road which  you are travelling on will be increased soon. Opposing traffic flow is indicated by a dotted arrow.  ",
       "action":" ...",
       "description":"",
-      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+      "image":"https://sfamisoftwares.com/api-js/images/guidance/diagrammatic-signs/stop.png"
    },
    {
       "id":1,
@@ -24,7 +24,7 @@
       "purpose":"To guide you by means of a diagram, which indicates that, the right-hand lane of a  two-lane carriageway or part of a carriageway is subject to a compulsory  requirement of a \u2018command\u2019 or \u2018prohibition\u2019 regulatory sign. Opposing traffic flow is indicated by a dotted arrow. ",
       "action":" ...",
       "description":"",
-      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+      "image":"https://sfamisoftwares.com/api-js/images/guidance/diagrammatic-signs/stop.png"
    },
    {
       "id":1,
@@ -33,7 +33,7 @@
       "purpose":"To guide you by means of a diagram, which indicates that, a lane merges with  another lane or that roadways join. ",
       "action":" ...",
       "description":"",
-      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+      "image":"https://sfamisoftwares.com/api-js/images/guidance/diagrammatic-signs/stop.png"
    },
    {
       "id":1,
@@ -42,7 +42,7 @@
       "purpose":"To guide drivers by means of a diagram, which indicates that, a curved multi-lane  carriageway converges with a straight multi-lane carriageway from the left or right,  without a decrease in lanes. ",
       "action":" ...",
       "description":"",
-      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+      "image":"https://sfamisoftwares.com/api-js/images/guidance/diagrammatic-signs/stop.png"
    },
    {
       "id":1,
@@ -51,7 +51,7 @@
       "purpose":"To indicate that there is an arrestor bed ahead and to  indicate the entrance to such an arrestor bed. ",
       "action":"Should the brakes of your vehicle fail, drive straight into the  arrestor bed.  ",
       "description":"",
-      "image":"https://sfamisoftwares.com/api-js/images/arrestor_bed.png"
+      "image":"https://sfamisoftwares.com/api-js/images/guidance/diagrammatic-signs/arrestor_bed.png"
    },
    {
       "id":1,
@@ -60,7 +60,7 @@
       "purpose":"To warn that, because of a steep descent, it is necessary to engage a lower gear. ",
       "action":"If you are driving a heavy motor vehicle, engage a lower gear so that the vehicle  will move down the descent more slowly.  ∙ If the lower gear does not have the desired effect, engage an even lower gear  to keep the speed constant and protect the brakes against overheating.",
       "description":"",
-      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+      "image":"https://sfamisoftwares.com/api-js/images/guidance/diagrammatic-signs/stop.png"
    },
    {
       "id":1,
@@ -69,7 +69,7 @@
       "purpose":" o inform you by means of a diagram that there is an entrance to an  arrestor bed ahead.  ",
       "action":"Do not turn in at such a road unless you are going to a destination in the  road that ends. ",
       "description":"",
-      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+      "image":"https://sfamisoftwares.com/api-js/images/guidance/diagrammatic-signs/stop.png"
    },
    {
       "id":1,
@@ -78,6 +78,6 @@
       "purpose":"To inform you by means of a diagram that the lane below the sign is  subject to a compulsory requirement indicated by a \u2018command\u2019 or \u2018prohibition\u2019 regulatory sign. ",
       "action":"Do not turn in at such a road unless you are going to a destination in the  road that ends.",
       "description":"",
-      "image":"https://sfamisoftwares.com/api-js/images/stop.png"
+      "image":"https://sfamisoftwares.com/api-js/images/guidance/diagrammatic-signs/stop.png"
    }
 ]

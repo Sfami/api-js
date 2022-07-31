@@ -1,7 +1,7 @@
 [
     {
        "purpose":" To indicate that the regulatory sign applies only for the period(s) or during  conditions indicated on this sign. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/secondary-signs/stop.png",
        "name":" Time limit subgroup  ∙ Two-time periods (R) 502  ∙ Two-time periods/days (R) 503 ",
        "action":" Obey the times on this sign. ",
        "description":"",
@@ -10,7 +10,7 @@
     },
     {
        "purpose":" To limit the times and periods of stopping. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/secondary-signs/stop.png",
        "name":" Maximum stay during two periods/days (R505, R506) ",
        "action":" Do not stop or park for longer than the times indicated. ",
        "description":"",
@@ -19,7 +19,7 @@
     },
     {
        "purpose":" To inform you that the regulatory sign applies when visibility is reduced. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/secondary-signs/stop.png",
        "name":" Reduced visibility (R )510 ",
        "action":" Obey the regulatory sign when visibility is reduced. ",
        "description":"",
@@ -28,7 +28,7 @@
     },
     {
        "purpose":" To inform you that the regulatory sign applies during daytime. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/secondary-signs/stop.png",
        "name":" Daytime (R)511 ",
        "action":" Obey the regulatory sign during daytime. ",
        "description":"",
@@ -37,7 +37,7 @@
     },
     {
        "purpose":" To inform you that the regulatory sign only applies during night time. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/secondary-signs/stop.png",
        "name":" Night time (R)512 ",
        "action":" Obey the regulatory sign during night time. ",
        "description":"",
@@ -46,7 +46,7 @@
     },
     {
        "purpose":" To indicate that the restriction indicated on the regulatory sign applies  in the direction of the arrow. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/secondary-signs/stop.png",
        "name":" Reserved movement left by vehicle class (R520) ∙ Reserved movement right by vehicle class (R521) ∙ Reserved movement to left and right by vehicle class (R522) ",
        "action":" Obey the primary sign according to the direction indicated. ",
        "description":"",
@@ -55,7 +55,7 @@
     },
     {
        "purpose":" To indicate that parking fees must be paid in the parking area. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/secondary-signs/stop.png",
        "name":" Pay and display (R523) ",
        "action":" Pay the parking fee and display the receipt on or within your vehicle.",
        "description":"",
@@ -64,7 +64,7 @@
     },
     {
        "purpose":" To indicate that the sign applies to drivers of vehicles operated by the company, owner  or organisation indicatedby the logo or words. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/secondary-signs/stop.png",
        "name":" Operator identity (logo) (R530) Operator identity (text) (R531) ",
        "action":" If your vehicle belongs to the company or organisation indicated by this sign, obey the  regulatory sign. ",
        "description":"",
@@ -73,7 +73,7 @@
     },
     {
        "purpose":" To indicate to the driver that the reservation indicated on the regulatory sign is further  restricted by a maximum number of vehicles as indicated on this sign. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/secondary-signs/stop.png",
        "name":" Maximum number of vehicles (R540) ",
        "action":" Do not enter an area if that would mean there would be more than the number of  vehicles indicated. ",
        "description":"",

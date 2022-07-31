@@ -1,7 +1,7 @@
 [
     {
        "purpose":"To indicate where you must bring your vehicle to a standstill. ",
-       "image":"https://sfamisoftwares.com/api-js/images/stop_line.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/stop_line.png",
        "name":"Stop line (RTM1) ",
        "action":"Stop with the front of your vehicle behind the stop sign. If there is no stop sign, the  stop line will have the same meaning as a stop sign. ",
        "description":"",
@@ -10,7 +10,7 @@
     },
     {
        "purpose":"To indicate that you must give priority to all who cross in front of you at this point. ",
-       "image":"https://sfamisoftwares.com/api-js/images/yield_line.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/yield_line.png",
        "name":"Yield line (RTM2) ",
        "action":"Give way to any one who crosses your path of travel or who wants to cross your  path. Even if there is no yield sign, you still have to give way. ",
        "description":"",
@@ -19,7 +19,7 @@
     },
     {
        "purpose":"To inform you that priority must be given to pedestrians crossing or wanting to  cross the road at these places. ",
-       "image":"https://sfamisoftwares.com/api-js/images/pedestrian_crossing_lines_and_block.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/pedestrian_crossing_lines_and_block.png",
        "name":"Pedestrian crossing lines (RTM3), Block pedestrian crossing (RTM4) ",
        "action":"Look out for any pedestrians crossing or wanting to cross the road and give them  priority by slowing down or stopping.",
        "description":"",
@@ -28,7 +28,7 @@
     },
     {
        "purpose":"To inform that it is prohibited to drive with any part of your vehicle on the right hand side of this line. ",
-       "image":"https://sfamisoftwares.com/api-js/images/no_overtaking_line.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/no_overtaking_line.png",
        "name":"No overtaking lines (RM1)(7.3.1)(7.3.2)(7.3.3) ",
        "action":"Do not cross the line, except to gain direct access to an entrance on the other side  of the line, to gain direct access from such an entrance to the road or to pass a stationary obstruction. In all these cases you must ensure that it is safe to do so. ",
        "description":"",
@@ -37,7 +37,7 @@
     },
     {
        "purpose":"To inform you that you may not cross this line. ",
-       "image":"https://sfamisoftwares.com/api-js/images/no_crossing_lines.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/no_crossing_lines.png",
        "name":" No crossing Lines (RM2) ",
        "action":" You may under no circumstances drive on the right hand side or cross these lines  with any part of your vehicle, except to drive around a stationary vehicle or stationary obstruction in the road. ",
        "description":"",
@@ -46,7 +46,7 @@
     },
     {
        "purpose":"To prohibit you from crossing the line. ",
-       "image":"https://sfamisoftwares.com/api-js/images/channelizing_line.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/channelizing_line.png",
        "name":"Channelizing line (RM3) ",
        "action":"Drive in such a way that no part of your vehicle crosses the line.",
        "description":"",
@@ -55,7 +55,7 @@
     },
     {
        "purpose":"To indicate where the left or right-edge of the road is. ",
-       "image":"https://sfamisoftwares.com/api-js/images/left_edge_marking.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/left_edge_marking.png",
        "name":"Left-edge (RM4.1)",
        "action":"Avoid driving to the left of the left-edge line. You may,  however drive here only; ∙ whilst being overtaken by another vehicle, ∙ if you can so without endangering yourself, other traffic,  pedestrians or property, ∙ during daytime and ∙ if persons and vehicles on the road are clearly discernible at  a distance of at least 150 metres. It is not compulsory to drive to the left of the line when you  are being overtaken, keep in mind that you have very little  space when doing so. If your vehicle breaks down, stop as far left from the line as  possible and switch on your emergency lights. The right-edge line is usually found on one-way roads such  as dual carriageways or freeways and may not be crossed. ",
        "description":"",
@@ -64,7 +64,7 @@
     },
     {
        "purpose":"To indicate where the left or right-edge of the road is. ",
-       "image":"https://sfamisoftwares.com/api-js/images/right_edge_marking.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/right_edge_marking.png",
        "name":"Right-edge line marking (RM4.2) ",
        "action":"Avoid driving to the left of the left-edge line. You may,  however drive here only; ∙ whilst being overtaken by another vehicle, ∙ if you can so without endangering yourself, other traffic,  pedestrians or property, ∙ during daytime and ∙ if persons and vehicles on the road are clearly discernible at  a distance of at least 150 metres. It is not compulsory to drive to the left of the line when you  are being overtaken, keep in mind that you have very little  space when doing so. If your vehicle breaks down, stop as far left from the line as  possible and switch on your emergency lights. The right-edge line is usually found on one-way roads such  as dual carriageways or freeways and may not be crossed. ",
        "description":"",
@@ -73,7 +73,7 @@
     },
     {
        "purpose":"To prohibit drivers from driving in this area. ",
-       "image":"https://sfamisoftwares.com/api-js/images/painted_island.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/painted_island.png",
        "name":"Painted island (RM5) ",
        "action":"Drive in such a way that you do not stop, park or drive over the island, unless on  the orders of a traffic orpolice officer, to avoid a collision or in an emergency. ",
        "description":"",
@@ -82,7 +82,7 @@
     },
     {
        "purpose":"To indicate where you may park. ",
-       "image":"https://sfamisoftwares.com/api-js/images/parking_bay.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/parking_bay.png",
        "name":"Parking bay (RM6) ",
        "action":"Make sure that your vehicle is parked completely inside the lines that mark the  parking bay. In the case of angle parking you must park as far as possible from the road, with the  front of your vehicle not further than 150mm from the kerb but no part of the  vehicle may be on or over the sidewalk.",
        "description":"",
@@ -91,7 +91,7 @@
     },
     {
        "purpose":"To identify parking only for road users identified by the symbol. ",
-       "image":"https://sfamisoftwares.com/api-js/images/exclusive_parking_bay.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/exclusive_parking_bay.png",
        "name":"Exclusive parking bay (RM7) ∙ A - AMBULANCE ∙ B - BUS ∙ L - LOADING ZONE ∙ T - TAXI ∙ F - FIRE-FIGHTING ∙ R - RICKSHAW ∙ CD - DIPLOMATIC ∙ MB - MINIBUS ∙ SOS - SOS PHONE ∙ D - DEFENCE FORCE ∙ P - SOUTH AFRICAN POLICE SERVICE ",
        "action":"If you are not part of the group identified by the sign, you may not  park here. In an emergency you may stop or park at the sign that indicates the  SOS telephone. Only goods vehicles may stop or park in the demarcated are that  indicates a loading zone. ",
        "description":"",
@@ -100,7 +100,7 @@
     },
     {
        "purpose":"To show that you may only proceed in the direction indicated by the  arrow in your lane. ",
-       "image":"https://sfamisoftwares.com/api-js/images/mandotory_direction.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/mandotory_direction.png",
        "name":"Mandatory direction arrows (RM8) ",
        "action":"Choose the correct lane in time to travel in the direction you want to  go. ∙ Make sure that other traffic is obeying the mandatory direction  arrows in their lanes. ∙ Check your blind spot before turning right to see that a vehicle in the  lane next to you who is suppose to turn right because of the  mandatory right-turn arrow in his lane) is not carrying straight on. ",
        "description":"",
@@ -109,7 +109,7 @@
     },
     {
        "purpose":"To identify that part of the carriageway whichis reserved for buses  only during the periods indicated on the sign. ",
-       "image":"https://sfamisoftwares.com/api-js/images/bus_lane_marking.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/bus_lane_marking.png",
        "name":"Buslane marking (RM9) ",
        "action":"If you are not driving a bus do not drive in the lane indicated by the  sign during the times on the sign.",
        "description":"",
@@ -118,7 +118,7 @@
     },
     {
        "purpose":"To prohibit drivers from stopping in the demarcated area because  this could prevent other traffic from turning or driving further  forward. ",
-       "image":"https://sfamisoftwares.com/api-js/images/box_junction.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/box_junction.png",
        "name":"Box junction (RM10) ",
        "action":"Do not stop in the demarcated box and make sure that you will be  able to drive through the intersection before entering the  intersection. ",
        "description":"",
@@ -127,7 +127,7 @@
     },
     {
        "purpose":"To indicate an area where you may not stop except for pedestrians  crossing or wanting to cross the road or for a vehicle that has already  stopped. ",
-       "image":"https://sfamisoftwares.com/api-js/images/pedestrian_crossing_ahead_lines.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/pedestrian_crossing_ahead_lines.png",
        "name":"Pedestrian crossing ahead lines (RM11)",
        "action":"Look out for pedestrians that may cross the road, slow down and  stop if someone wants to cross the road. Do not overtake inside this  area or a vehicle that has stopped at any pedestrian crossing. ",
        "description":"",
@@ -136,7 +136,7 @@
     },
     {
        "purpose":"To prohibit drivers from stopping where stationary vehicles may disrupt the traffic or where the environment obstructs the view and  such vehicles may obstruct the view more. ",
-       "image":"https://sfamisoftwares.com/api-js/images/no_stopping_lines.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/no_stopping_lines.png",
        "name":"No stopping lines (RM12) ",
        "action":"Except in any emergency, do not stop at these lines. In the case of a broken line, you may not stop during the times  indicated by a road traffic sign. ",
        "description":"",
@@ -145,7 +145,7 @@
     },
     {
        "purpose":"To prevent drivers from stopping where stationary vehicles may  disrupt the traffic, or where the environment obstructs the view and  such vehicles obstruct the view more. ",
-       "image":"https://sfamisoftwares.com/api-js/images/no_parking_line.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/no_parking_line.png",
        "name":"No parking line (RM13) ",
        "action":"Exception an emergency, you may stop for short periods, but may  not park here. Parking means that a vehicle is stationary (whether the engine is  running or not ) for a longer period than is longer than that needed  to on or off load goods or passengers. ",
        "description":"",
@@ -154,7 +154,7 @@
     },
     {
        "purpose":"To indicate the limits within which only cyclists may travel. ",
-       "image":"https://sfamisoftwares.com/api-js/images/bicycle_lane_lines.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/bicycle_lane_lines.png",
        "name":"Bicycle lane lines (RM14) ",
        "action":"Do no drive in the demarcated area.",
        "description":"",
@@ -163,11 +163,11 @@
     },
     {
        "purpose":"To indicate the direction you must follow around the circle or mini-circle. ",
-       "image":"https://sfamisoftwares.com/api-js/images/traffic_circle_mandatory_directional_lines.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/traffic_circle_mandatory_directional_lines.png",
        "name":"Traffic circle mandatory directional arrows (RM15) ",
        "action":"Only drive around the circle in the direction indicated by the arrows. Yield to traffic coming from your right hand side. At a mini-circle yield to traffic that reaches their yield line first  before you reach yours. Drive slowly so that you can stop if someone does not yield. ",
        "description":"",
        "where":"At traffic circles and mini-circles. ",
        "id":1
     }
- ]0
+ ]
