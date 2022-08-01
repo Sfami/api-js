@@ -6,7 +6,7 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop_line.png"
+        "image": "https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/stop_line.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/yield_line.png"
+        "image": "https://sfamisoftwares.com/api-js/images/road-markings/warning-markings/yield_line.png"
     },
     {
         "id": 3,
@@ -24,6 +24,6 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/road_markings.png"
+        "image": "https://sfamisoftwares.com/api-js/images/road-markings/guidance-markings/road_markings.png"
     }
 ]
