@@ -6,7 +6,7 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/control-signs/stop.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/keep_left.png"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/no_overtaking.png"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/reservation-signs/reservation.png"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/comprehensive-signs/single_carriageway.png"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/secondary-signs/time_restriction.png"
     },
     {
         "id": 7,
@@ -60,6 +60,6 @@
         "purpose": "To allow traffic turning left, to do so (if it can be done without interfering with cross traffic) without stopping.",
         "action": "If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic, which is close enough to pose a hazard. Proceed only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/de-restriction-signs/headlights_off.png"
     }
 ]
