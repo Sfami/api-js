@@ -100,7 +100,7 @@
     },
     {
        "purpose":"To show that you may only proceed in the direction indicated by the  arrow in your lane. ",
-       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/mandotory_direction.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/regulatory-markings/mandatory_direction_arrows.png",
        "name":"Mandatory direction arrows (RM8) ",
        "action":"Choose the correct lane in time to travel in the direction you want to  go. ∙ Make sure that other traffic is obeying the mandatory direction  arrows in their lanes. ∙ Check your blind spot before turning right to see that a vehicle in the  lane next to you who is suppose to turn right because of the  mandatory right-turn arrow in his lane) is not carrying straight on. ",
        "description":"",

@@ -19,7 +19,7 @@
     },
     {
        "purpose":" To indicate an increase in the number of lanes ahead. ",
-       "image":"https://sfamisoftwares.com/api-js/images/road-markings/guidance-markings/bifurcation_lines.png",
+       "image":"https://sfamisoftwares.com/api-js/images/road-markings/guidance-markings/bifurcation_arrows.png",
        "name":" Bifurcation arrows (GM3) ",
        "action":" Ensure that you do not straddle any lane markings. ",
        "description":"",
