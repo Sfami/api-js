@@ -6,7 +6,7 @@
         "purpose": "To warn that there is a traffic circle ahead where you may need to yield to other traffic.",
         "action": "Slow down so that you can stop or drive around the circle at a safe speed. Look out for road traffic signs and markings which will tell you whether you have the right of way or whether you have to yield. If there is no indication you have to give way to traffic approaching from the right. Vehicles within a traffic circle have right of way.\n If you have right of way still look out for traffic in the circle which may not yield to you.\n If sign R2.2 is displayed at the traffic circle, you must yield to any driver who crosses his yield line first before you cross yours.\n",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/warning/direction-of-movement-signs/traffic_circle.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/direction-of-movement-signs/traffic_circle.jpg"
     },
     {
         "id": 2,
@@ -60,7 +60,7 @@
         "purpose": "To warn that the one-way roadway you are travelling on will soon become a two-way roadway.",
         "action": "Be aware that you are entering a roadway with two-way traffic and have to be more careful when overtaking to allow for oncoming vehicles.\n",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/warning/direction-of-movement-signs/two_way_traffic.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/direction-of-movement-signs/two_way_traffic.jpg"
     },
     {
         "id": 8,
@@ -78,6 +78,6 @@
         "purpose": "To warn that the double-lane road you are driving on narrows by a full lane from the left (W215 or TW215) or from the right-hand side (W214 or TW 214).",
         "action": "Depending on which sign is displayed, change in good time to the lane that carries on.\n",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/warning/direction-of-movement-signs/lane_ends.png"
+        "image": "https://sfamisoftwares.com/api-js/images/warning/direction-of-movement-signs/right_lane_ends.png"
     }
 ]
