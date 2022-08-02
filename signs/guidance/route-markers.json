@@ -10,7 +10,7 @@
     },
     {
        "purpose":" To point out the direction of a transport terminus from a route that would otherwise have taken you past a bus terminus, harbour, airport or helipad. ",
-       "image":"https://sfamisoftwares.com/api-js/images/guidance/route-markers/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/guidance/route-markers/advance_trailblazer.png",
        "name":" Advance transport trailblazer (GE9) ",
        "action":" Follow the traffic signs if you want to go to the terminus and look out for the transport trailblazer that follows.",
        "description":"",
@@ -100,7 +100,7 @@
     },
     {
        "purpose":" To indicate the - ∙ numbers of the routes leading from this intersection and ∙ destinations that can be reached from this intersection. ",
-       "image":"https://sfamisoftwares.com/api-js/images/guidance/route-markers/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/guidance/route-markers/stack_type.png",
        "name":" Stack-type direction (GD1.112, TGD1.112) ",
        "action":" Slow down and make sure you take the correct route. Also look out for  other traffic at the intersection that might not yield. ",
        "description":"",
@@ -118,7 +118,7 @@
     },
     {
        "purpose":" To guide you to small locations or to destinations on less travelled routes. ",
-       "image":"https://sfamisoftwares.com/api-js/images/guidance/route-markers/stop.png",
+       "image":"https://sfamisoftwares.com/api-js/images/guidance/route-markers/fingerboard.png",
        "name":" Fingerboard (GD4, TGD4) ",
        "action":" Slow down and look out for traffic that might not yield at the intersection. ",
        "description":"",
