@@ -6,7 +6,7 @@
         "purpose": "To direct traffic in areas where there is high traffic congestion, at the scene of an accident or the normal traffic signals are not operational.",
         "action": "Driver must focus on the signals given by the officer, and strictly adhere to the signal given.\n The traffic officer signals takes precedence over any other traffic signal.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/temporary/ex-of-temporary-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/temporary/stop.png"
     },
     {
         "id": 1,
@@ -15,7 +15,7 @@
         "purpose": "Bring traffic to a stop.",
         "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/temporary/ex-of-temporary-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/temporary/stop.png"
     },
     {
         "id": 1,
@@ -24,7 +24,7 @@
         "purpose": "Stop traffic approaching from the rear",
         "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/temporary/ex-of-temporary-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/temporary/stop.png"
     },
     {
         "id": 1,
@@ -33,7 +33,7 @@
         "purpose": "Stop traffic approaching from the front and rear",
         "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/temporary/ex-of-temporary-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/temporary/stop.png"
     },
     {
         "id": 1,
@@ -42,7 +42,7 @@
         "purpose": "Indicates to the driver that he/she may proceed",
         "action": "Approach cautiously, look carefully and be able to stop if cross-traffic requires it.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/temporary/ex-of-temporary-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/temporary/stop.png"
     },
     {
         "id": 1,
@@ -51,7 +51,7 @@
         "purpose": "To direct traffic in areas where there is road works ahead, herdsman leading cattle or other animals across or next to a roadway.",
         "action": "...",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/temporary/ex-of-temporary-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/temporary/stop.png"
     },
     {
         "id": 1,
@@ -60,7 +60,7 @@
         "purpose": "To direct traffic in areas where there is road works ahead, herdsman leading cattle or other animals across or next to a roadway.",
         "action": "...",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/temporary/ex-of-temporary-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/temporary/stop.png"
     },
     {
         "id": 1,
@@ -69,6 +69,6 @@
         "purpose": "Warns a road user to proceed slowly and be alert.",
         "action": "...",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/temporary/ex-of-temporary-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/temporary/stop.png"
     }
 ]
