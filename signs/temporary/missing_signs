@@ -1,0 +1,41 @@
+I/Background: https://sfamisoftwares.com/api-js/images/regulatory/control-signs/stop_yield.png
+I/Background: https://sfamisoftwares.com/api-js/images/information/road_experiment.png
+I/Background: https://sfamisoftwares.com/api-js/images/information/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/traffic-signal/hand-signals/signal_proceed.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/freeway-direction-signs/stop.png
+I/Background: https://sfamisoftwares.com/api-js/images/road-markings/warning-markings/yield_control_ahead.png
+I/Background: https://sfamisoftwares.com/api-js/images/road-markings/warning-markings/no_overtaking_or_crossing_line_ahead.png
+I/Background: https://sfamisoftwares.com/api-js/images/guidance/diagrammatic-signs/arrestor_bed.png
+
+I/FAILED IMAGE:  Pre-advance exit direction (GA1) 
+I/FAILED IMAGE:  Advance exit direction (GA2) 
+I/FAILED IMAGE:  Supplementary exit direction (GA2/3, TGA2/3) 
+I/FAILED IMAGE:  Exit direction GA3 
+I/FAILED IMAGE:  Gore exit (GA4, TGA4) 
+I/FAILED IMAGE:  Advance off-ramp terminal direction - (GA5) Rural, (GA5.011) Urban 
+I/FAILED IMAGE:  Off-ramp terminal direction (GA611), Urban (GA6-2.3), Rural 
+I/FAILED IMAGE:  Confirmation (GA7) 
+I/FAILED IMAGE:  Exit sequence (GA8) 
+I/FAILED IMAGE:  Cross-route advance direction Rural(GB1), Urban (GB1.11) 
+
+I/FAILED IMAGE:  Overhead freeway direction (GC3U)  
+I/FAILED IMAGE:  Yield control ahead (WM5) 
+I/FAILED IMAGE:  No overtaking or no crossing line ahead (WM8) 
+I/FAILED IMAGE: Arrestor bed (GS501, GS502, GS503, GS504) 
+I/FAILED IMAGE:  Road experiment (TIN13) 
+I/FAILED IMAGE:  Bus stop ahead (IN16) 
+I/FAILED IMAGE: Stop/Yield
+I/FAILED IMAGE: Control hand signals for use by traffic officer.
