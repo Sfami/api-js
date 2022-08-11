@@ -6,7 +6,7 @@
        "purpose":"To warn you against a height restriction ahead.",
        "action":"If your vehicle (or load) is higher than the indicated height in metres, another road not indicated by this sign, must be used.",
        "description":"Description",
-       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/height_limit.png"
     },
     {
        "id":2,
@@ -15,7 +15,7 @@
        "purpose":"To prohibit long vehicles from using a road where such a vehicle will not be able to negotiate a curve or will turn in such a manner that it will disrupt or endanger other traffic.",
        "action":"If applicable, take an alternative route.",
        "description":"Description",
-       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/length_limit.png"
     },
     {
        "id":3,
@@ -24,7 +24,7 @@
        "purpose":"To ensure traffic flow and prevent that driver’s views are not impaired by stationary vehicles.",
        "action":"Do not stop unless to obey a traffic light or a traffic officer or to avoid a collision.",
        "description":"Description",
-       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/no_stopping.png"
     },
     {
        "id":4,
@@ -33,16 +33,7 @@
        "purpose":"To prohibit drivers from parking during any time of the day or night.",
        "action":"Do not park where these signs are displayed.",
        "description":"Description",
-       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
-    },
-    {
-       "id":5,
-       "name":"Parking prohibited (R216, TR216)",
-       "where":"On a public road where the road is narrow, near an intersection or where a parked vehicle can impair the vision of other drivers.",
-       "purpose":"To prohibit drivers from parking during any time of the day or night.",
-       "action":"Do not park where these signs are displayed.",
-       "description":"Description",
-       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/no_parking.png"
     },
     {
        "id":6,
@@ -51,7 +42,7 @@
        "purpose":"To vehicles from turning around so that it faces the opposite direction.",
        "action":"Do not turn your vehicle around so that it faces the opposite direction.",
        "description":"Description",
-       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/no_u_turn.png"
     },
     {
        "id":7,
@@ -60,7 +51,7 @@
        "purpose":"To inform drivers that overtaking vehicles is prohibited for the next 500m.",
        "action":"If sign R214 or TR214 is displayed, do not overtake any vehicle for the next 500m. If you are driving a heavy motor vehicle, do not overtake another heavy vehicle if sign R215 is displayed.",
        "description":"Description",
-       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/no_overtaking.png"
     },
     {
        "id":8,
@@ -69,7 +60,7 @@
        "purpose":"To prohibit drivers without special authorisation from entering a certain road or section of a road.",
        "action":"Do not proceed past the sign or enter the road without special permission.",
        "description":"Description",
-       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
+       "image":"https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/unauthorised_vehicles.png"
     },
     {
       "id": 1,
@@ -78,7 +69,7 @@
       "purpose": "Inform you of the speed limit applicable on this road. The restriction applies from the sign.",
       "action": "Do not exceed the speed indicated by this sign.",
       "description": "Description",
-      "image": "https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
+      "image": "https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/speed_limit.png"
   },
   {
       "id": 2,
@@ -87,7 +78,7 @@
       "purpose": "To prevent certain heavy vehicles from using a road or part of a road.",
       "action": "If the GVM or GCM of your vehicle exceeds the mass indicated in tons, use another road or part of the road, which is not indicated by this sign.\n If your vehicle’s GVM or GCM is less than the indicated mass in tons, you may use this road.",
       "description": "Description",
-      "image": "https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
+      "image": "https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/mass_limit.png"
   },
   {
       "id": 3,
@@ -96,7 +87,7 @@
       "purpose": "To prevent certain heavy vehicles from using a road or part of a road.",
       "action": "If the axle mass of any of your vehicle’s axles exceeds the indicated mass in tons, use another road or part of the road not indicated by this sign.",
       "description": "Description",
-      "image": "https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/stop.png"
+      "image": "https://sfamisoftwares.com/api-js/images/regulatory/prohibition-signs/axle_mass_limit.png"
   }
  ]
 

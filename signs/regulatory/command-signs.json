@@ -6,7 +6,7 @@
         "purpose": "To regulate the minimum speed of traffic.",
         "action": "Do not drive slower than the speed indicated in km/h.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/min_speed_limit_50.png"
     },
     {   
         "id":4,   
@@ -15,7 +15,7 @@
         "purpose": "To compel drivers of certain heavy vehicles to use the road or part of the road indicated by this road traffic sign.",
         "action": "When driving a vehicle with a Gross Vehicle Mass (GVM) or Gross Combination Mass (GCM) in excess of the mass indicated in tons, use only the part of the road indicated by this sign.\n If the GVM or GCM of your vehicle is less than the mass indicated in tons, use a part of the road not indicated by this sign.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/min_weight.png"
     },
     {
         "id":5,   
@@ -24,7 +24,7 @@
         "purpose": "To indicate that you must drive to the left or right of an obstruction where the sign is displayed.",
         "action": "Pass to the left or right of the obstruction, as indicated by the sign.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/keep_left.png"
     },
     {
         "id":6,   
@@ -33,7 +33,7 @@
         "purpose": "Bring traffic to a stop.",
         "action": "Bring vehicles to a stop behind the line. When there is no stop line, the front of the vehicle must be in line with the stop sign. You may not drive off before all the other vehicles which stopped before you have moved off in a three-way or four-way stop. Continue only when it is safe.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/keep_right.png"
     },
     {
         "id":7,   
@@ -42,7 +42,7 @@
         "purpose": "To indicate that you must switch on your headlights in order to see and be seen.",
         "action": "Switch the lights of your vehicle on in the dip position.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/headlights_on.png"
     },
     {
         "id":8,   
@@ -51,7 +51,7 @@
         "purpose": "To indicate that the road or part of the road may be used by pedestrians only.",
         "action": "Do not use the road or part of the road indicated by this sign.\n Pedestrians may use only the part of the road indicated by this sign.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/pedestrians_only.png"
     },
     {
         "id":9,   
@@ -60,7 +60,7 @@
         "purpose": "Indicates that the road or a portion of the road is set aside for use by buses.",
         "action": "The driver of a bus shall on",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/buses_only.png"
     },
     {
         "id":10,   
@@ -69,7 +69,7 @@
         "purpose": "Indicates that the road or a portion of the road is set aside for use by minibuses",
         "action": "The driver of a minibus shall only use such road or portion of such road.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/minibuses_only.png"
     },
     {
         "id":11,   
@@ -78,7 +78,7 @@
         "purpose": "To indicate that the road or part of the road may be used by cyclists only.",
         "action": "Do not use the road or part of the road indicated by this sign.\n Cyclists may use only the part of the road indicated by this sign.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/cyclists_only.png"
     },
     {
         "id":12,   
@@ -87,7 +87,7 @@
         "purpose": "To indicate that the road or portion of the road is set aside for use by taxis.",
         "action": "The driver of the taxi shall use that road.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/taxis_only.png"
     },
     {
         "id":13,   
@@ -96,7 +96,7 @@
         "purpose": "Indicate that a road or part of a road may be used by motorcyclists only.",
         "action": "Motorcyclists must follow the route indicated by the road traffic sign.\n No driver of any other vehicle may use the road or part of the road indicated by this sign.\n Motorcyclists may use only that part of the road indicated by this sign.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/motorcycles_only.png"
     },
 
     { 
@@ -106,7 +106,7 @@
         "purpose" : "Indicate that a road or part of a road may be used by motorcars only.",
         "action": "You may only drive a motorcar on this road or this part of the road. Where this sign is displayed, you must use that part of the road.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/motor_cars_only.png"
     },
     {
         "id":15,   
@@ -115,7 +115,7 @@
         "purpose": "Indicates that the road or portion of the road is set aside for use by goods vehicles",
         "action": "The driver of such goods vehicle shall only use such road or portion of such road.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/goods_vehicles_only.png"
     },
     {
         "id":16,   
@@ -124,7 +124,7 @@
         "purpose": "Indicates that the road or a portion of the road is set aside for use by construction vehicles",
         "action": "The driver of a construction vehicle shall only use such road or portion of such road.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/construction_vehicles_only.png"
     },
     {
         "id":17,   
@@ -133,7 +133,7 @@
         "purpose": "Indicates that the road or a portion of the road is set aside for use by abnormal vehicles.",
         "action": "The driver of an abnormal vehicle shall only use such road or portion of such road.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/abnormal_vehicles_only.png"
     },
     {
         "id":18,   
@@ -142,7 +142,7 @@
         "purpose": "To indicate that you must move in a clockwise direction at the junction.",
         "action": "Yield right of way to vehicle approaching from the right within the roundabout, where such vehicles are close enough to cause a danger or potential danger. Proceed",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/roundabout.png"
     },
     {
         "id":19,   
@@ -151,7 +151,7 @@
         "purpose": "To give you a last opportunity to follow an alternative route, or to proceed on the route and pay toll fees.",
         "action": "Consider both the alternative and the route indicated by this road traffic sign and decide in good time which to follow.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/pay_toll.png"
     },
     {
         "id":20,   
@@ -160,6 +160,6 @@
         "purpose": "Indicates that the road or a portion of the road is set aside for use by agricultural vehicles",
         "action": "The driver of an agricultural vehicle shall only use such road or portion of such road.",
         "description": "Description",
-        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/regulatory/command-signs/agricultural_vehicles_only.png"
     }
 ]
